@@ -1,4 +1,4 @@
-# Universal Ball Mount
+# Universal Ball Mount for EON Dashcam DevKit
 This is a universal ball bracket for mounting the Eon Dashcam Kit to any windshield. 
 The Eon Dashcam Devkit is a piece of hardware sold by Comma.ai that runs Chffr, 
 a tool that is helping to train a computer model to drive cars like Humans. 
