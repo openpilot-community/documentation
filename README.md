@@ -26,7 +26,7 @@ You simply create a new md file in `src/faq` with a relatively useful but not to
 With the following content:
 
 ```
-## Q: I'm taking my vehicle in for service ... is there an easy way to remove the giraffe?
+Q: I'm taking my vehicle in for service ... is there an easy way to remove the giraffe?
 
-## A: From the back of the griaffe, go up from the bottom, there is a tab to depress, giraffe slides out
+A: From the back of the griaffe, go up from the bottom, there is a tab to depress, giraffe slides out
 ```
