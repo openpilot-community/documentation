@@ -1,4 +1,4 @@
-# openpilot community knowledge base
+# Introduction
 This is a community document repository.
 It will house all questions people ask an we will keep variants of those questions from Slack as much as we can.
 
