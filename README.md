@@ -1,4 +1,4 @@
-# README
+# Introduction
 
 This is a community document repository. It will house all questions people ask an we will keep variants of those questions from Slack as much as we can.
 
@@ -6,9 +6,14 @@ When a merge is done to master, travis.ci will build the book and publish it to 
 
 ## Submit a document
 
-To submit a document, simply create it right in GitHub under the relavant section of the `src` directory.
+Feel free to create the new document directly in the GitHub interface.  
+It will guide you to create a Pull Request.  Go ahead and do that, and one of the appointed community members will approve the PR as quickly as possible.
 
-I will try to add groupings that make sense so everyone knows where things go.
+Create a new `.md` file in the relevant directory.
+
+Documents should always be as tiny as possible and should stick to its purpose.
+
+If you need to add info that might be already covered by another section, please use a markdown link to that respective content.
 
 ## What can a document represent?
 
@@ -16,7 +21,7 @@ A document should always be as small as possible. Do not over explain. If it's a
 
 Short and sweet.
 
-### Example time
+### An example of an FAQ addition
 
 _In slack, you notice someone asked this:_
 
