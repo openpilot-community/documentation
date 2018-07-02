@@ -1,12 +1,7 @@
----
-description: >-
-  This page contains tips and suggestions from my (@jfrux) experiences.  Feel
-  free to PR your suggestions.
----
-
 # Mounting
 
-
+This page contains tips and suggestions originally from [medium/@jfrux](https://medium.com/@jfrux/comma-eon-mounting-calibration-82806162a51).  
+Feel free to PR your suggestions.
 
 ![](https://cdn-images-1.medium.com/max/2000/1*D7VvwLKID5AvOZuU-iWj5g@2x.jpeg)
 
