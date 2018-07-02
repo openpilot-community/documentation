@@ -21,7 +21,8 @@
     * [What is it?](hardware/pedal/what-is-it.md)
     * [Get a Pedal](hardware/pedal/get-a-pedal.md)
 * [Software](software/README.md)
-  * [openpilot](software/openpilot.md)
-  * [chffrplus](software/chffrplus.md)
-  * [chffr](software/chffr.md)
+  * [openpilot](software/openpilot/README.md)
+    * [What is it?](software/openpilot/what-is-it.md)
+    * [Supported Vehicles](software/openpilot/supported-vehicles.md)
+  * [opendbc](software/opendbc.md)
 
