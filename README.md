@@ -1,8 +1,6 @@
 # Introduction
 
-This is a community document repository. It will house all questions people ask an we will keep variants of those questions from Slack as much as we can.
-
-When a merge is done to master, travis.ci will build the book and publish it to the web so that Google searches will be improved and people will be more likely to find answers they're looking for quickly.
+Welcome to the community supported documentation project for openpilot, its supported vehicles and the hardware it requires.
 
 ## Submit a document
 
