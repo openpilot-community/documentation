@@ -1,4 +1,4 @@
-# What is it?
+# About Panda
 
 The Panda is a universal interface for your car.
 
