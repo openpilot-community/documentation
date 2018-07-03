@@ -37,6 +37,8 @@
       * [Universal Ball Mount](hardware/eon/mounting/universal-ball-mount.md)
   * [Panda](hardware/panda/README.md)
     * [About Panda](hardware/panda/what-is-it.md)
+    * [Troubleshooting](hardware/panda/troubleshooting/README.md)
+      * [Panda just flashes green](hardware/panda/troubleshooting/panda-just-flashes-green.md)
   * [Giraffe](hardware/giraffe/README.md)
     * [About Giraffe](hardware/giraffe/what-is-it.md)
     * [Types of Giraffes](hardware/giraffe/types-of-giraffes.md)
