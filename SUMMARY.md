@@ -27,6 +27,7 @@
     * [Tesla](getting-started/supported-vehicles/tesla/README.md)
       * [Model S](getting-started/supported-vehicles/tesla/model-s.md)
   * [Installation](getting-started/installation.md)
+* [Development](development.md)
 * [Hardware](hardware/README.md)
   * [EON](hardware/eon/README.md)
     * [About EON](hardware/eon/what-is-it.md)
