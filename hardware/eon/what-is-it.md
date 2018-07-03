@@ -14,5 +14,5 @@ That's because that is precisely what it is in essence.  This is an [OmniPlus 3T
 
 Mounted to the back of it, and held on but 3D Printed ABS panels and pieces is a custom PCB board with a fan and large heat sync used to regulate the device from overheating because of how the CPU is clocked to do things it wasn't really ever designed to do.  Which although sounds bad, is actually an amazing thing for a smartphone and it's job is very important so that's why it exists.
 
-![Rendering of the EON from the back.](../../.gitbook/assets/outward-facing.png)
+![Rendering of the EON from the back.](../../.gitbook/assets/outward-facing%20%281%29.png)
 
