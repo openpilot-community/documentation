@@ -1,6 +1,9 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [About Openpilot](what-is-it.md)
+* [Supported Vehicles](supported-vehicles.md)
+* [Installation](installation.md)
 * [Hardware](hardware/README.md)
   * [EON](hardware/eon/README.md)
     * [About EON](hardware/eon/what-is-it.md)
@@ -20,10 +23,4 @@
   * [Pedal](hardware/pedal/README.md)
     * [About Pedal](hardware/pedal/what-is-it.md)
     * [Get a Pedal](hardware/pedal/get-a-pedal.md)
-* [Software](software/README.md)
-  * [openpilot](software/openpilot/README.md)
-    * [What is it?](software/openpilot/what-is-it.md)
-    * [Supported Vehicles](software/openpilot/supported-vehicles.md)
-    * [Installation](software/openpilot/installation.md)
-  * [opendbc](software/opendbc.md)
 
