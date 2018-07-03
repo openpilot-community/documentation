@@ -24,5 +24,6 @@
   * [openpilot](software/openpilot/README.md)
     * [What is it?](software/openpilot/what-is-it.md)
     * [Supported Vehicles](software/openpilot/supported-vehicles.md)
+    * [Installation](software/openpilot/installation.md)
   * [opendbc](software/opendbc.md)
 
