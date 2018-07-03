@@ -13,5 +13,5 @@ description: >-
 
 We've found that using a flat head screw driver gently to reach the tab it tends to just pop right out with very light pressure.
 
-![](../../../.gitbook/assets/image%20%281%29.png)
+![](../../../.gitbook/assets/image%20%282%29.png)
 
