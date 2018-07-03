@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Hardware](hardware/README.md)
   * [EON](hardware/eon/README.md)
-    * [What is it?](hardware/eon/what-is-it.md)
+    * [What is the Comma EON?](hardware/eon/what-is-it.md)
     * [Get an EON](hardware/eon/get-an-eon.md)
     * [Installation](hardware/eon/installation.md)
     * [Mounting](hardware/eon/mounting/README.md)
