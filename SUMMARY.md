@@ -1,6 +1,9 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Documentation](documentation/README.md)
+  * [Contributing](documentation/contributing.md)
+  * [Markdown](documentation/documentation-formatting.md)
 * [Getting Started](getting-started/README.md)
   * [Introduction](getting-started/about-openpilot.md)
   * [Supported Vehicles](getting-started/supported-vehicles/README.md)
