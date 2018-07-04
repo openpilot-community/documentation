@@ -1,5 +1,7 @@
 # Introduction
 
+![](.gitbook/assets/frame.png)
+
 An open source documentation project for openpilot written for you by fellow members of the Comma community.
 
 ## How to contribute
