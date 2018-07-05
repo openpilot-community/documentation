@@ -4,6 +4,10 @@
 **PLEASE NOTE:** These are purely based on things released by Comma.ai, Inc.'s CEO publicly on Slack and Periscopes and may or may not change in the future.
 {% endhint %}
 
+## Release Cycle
+
+Comma tries to stick to a 2 week sprint cycle and they release to devel mostly on Sunday's and to release2 on Monday's.
+
 ## Features to look for in future releases
 
 * **v0.6.x**
