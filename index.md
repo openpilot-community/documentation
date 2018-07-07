@@ -1,3 +1,8 @@
+---
+layout: default
+title: The Openpilot Documentation Project
+---
+
 # The Openpilot Documentation Project
 
 We're creating documentation for openpilot.

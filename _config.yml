@@ -1,0 +1,43 @@
+permalink:           pretty
+
+# Setup
+title:               'Openpilot'
+tagline:             'The Documentation Project'
+baseurl:             'https://opc.ai/documentation'
+
+sass:
+  style: compressed
+
+# About/contact
+author:
+  name:              The Openpilot Community
+  url:               https://twitter.com/opcdotai
+  email:             support@opc.ai
+
+gems:                [algoliasearch-jekyll]
+
+# Custom vars
+version:             0.4.7.2
+
+exclude:             [vendor]
+
+github:
+  repository_url:    https://github.com/openpilot-community/documentation
+
+twitter:
+  handle:            opcdotai
+
+algolia:
+  application_id:    'YV9S52FCI0'
+  index_name:        'docs'
+  read_only_api_key: 'e45dfafb5a6f36cea26fb75a5f62cfe0'
+  excluded_files:
+    - 404.html
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+      author: "The Bakery"

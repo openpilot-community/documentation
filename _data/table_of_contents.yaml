@@ -1,0 +1,121 @@
+entries:
+  - title: Introduction
+    permalink: /README.html
+  - title: Documentation
+    permalink: /documentation/README.html
+  - title: Contributing
+    permalink: /documentation/contributing.html
+  - title: Markdown
+    permalink: /documentation/documentation-formatting.html
+  - title: Getting Started
+    permalink: /getting-started/README.html
+  - title: Introduction
+    permalink: /getting-started/about-openpilot.html
+  - title: Installation
+    permalink: /getting-started/installation.html
+  - title: Supported Vehicles
+    permalink: /getting-started/supported-vehicles/README.html
+  - title: Acura
+    permalink: /getting-started/supported-vehicles/acura/README.html
+  - title: ILX
+    permalink: /getting-started/supported-vehicles/acura/ilx.html
+  - title: RDX
+    permalink: /getting-started/supported-vehicles/acura/rdx.html
+  - title: Cadillac
+    permalink: /getting-started/supported-vehicles/cadillac/README.html
+  - title: CT6
+    permalink: /getting-started/supported-vehicles/cadillac/ct6.html
+  - title: Chevrolet
+    permalink: /getting-started/supported-vehicles/chevrolet/README.html
+  - title: Volt
+    permalink: /getting-started/supported-vehicles/chevrolet/volt.html
+  - title: Honda
+    permalink: /getting-started/supported-vehicles/honda/README.html
+  - title: Accord
+    permalink: /getting-started/supported-vehicles/honda/accord.html
+  - title: Civic
+    permalink: /getting-started/supported-vehicles/honda/civic/README.html
+  - title: Videos
+    permalink: /getting-started/supported-vehicles/honda/civic/videos.html
+  - title: CR-V
+    permalink: /getting-started/supported-vehicles/honda/cr-v.html
+  - title: Odyssey
+    permalink: /getting-started/supported-vehicles/honda/odyssey.html
+  - title: Pilot
+    permalink: /getting-started/supported-vehicles/honda/pilot.html
+  - title: Ridgeline
+    permalink: /getting-started/supported-vehicles/honda/ridgeline.html
+  - title: Lexus
+    permalink: /getting-started/supported-vehicles/lexus/README.html
+  - title: RX
+    permalink: /getting-started/supported-vehicles/lexus/rx.html
+  - title: Toyota
+    permalink: /getting-started/supported-vehicles/toyota/README.html
+  - title: Corolla
+    permalink: /getting-started/supported-vehicles/toyota/corolla.html
+  - title: Prius
+    permalink: /getting-started/supported-vehicles/toyota/prius.html
+  - title: RAV-4
+    permalink: /getting-started/supported-vehicles/toyota/rav-4.html
+  - title: Tesla
+    permalink: /getting-started/supported-vehicles/tesla/README.html
+  - title: Model S
+    permalink: /getting-started/supported-vehicles/tesla/model-s.html
+  - title: Development
+    permalink: /development/README.html
+  - title: Future Releases
+    permalink: /development/releases.html
+  - title: Hardware
+    permalink: /hardware/README.html
+  - title: EON
+    permalink: /hardware/eon/README.html
+  - title: About EON
+    permalink: /hardware/eon/what-is-it.html
+  - title: Get an EON
+    permalink: /hardware/eon/get-an-eon.html
+  - title: Installation
+    permalink: /hardware/eon/installation.html
+  - title: Mounting
+    permalink: /hardware/eon/mounting/README.html
+  - title: How to Mount the EON
+    permalink: /hardware/eon/mounting/how-to-mount.html
+  - title: Universal Ball Mount
+    permalink: /hardware/eon/mounting/universal-ball-mount.html
+  - title: Panda
+    permalink: /hardware/panda/README.html
+  - title: About Panda
+    permalink: /hardware/panda/what-is-it.html
+  - title: Troubleshooting
+    permalink: /hardware/panda/troubleshooting/README.html
+  - title: Panda just flashes green
+    permalink: /hardware/panda/troubleshooting/panda-just-flashes-green.html
+  - title: Get a Panda
+    permalink: /hardware/panda/get-a-panda.html
+  - title: Giraffe
+    permalink: /hardware/giraffe/README.html
+  - title: About Giraffe
+    permalink: /hardware/giraffe/what-is-it.html
+  - title: Types of Giraffes
+    permalink: /hardware/giraffe/types-of-giraffes.html
+  - title: Get a Giraffe
+    permalink: /hardware/giraffe/get-a-giraffe.html
+  - title: Installation
+    permalink: /hardware/giraffe/installation/README.html
+  - title: Removing Giraffe from Vehicle
+    permalink: /hardware/giraffe/installation/removing-giraffe-from-vehicle.html
+  - title: Pedal
+    permalink: /hardware/pedal/README.html
+  - title: About Pedal
+    permalink: /hardware/pedal/what-is-it.html
+  - title: Get a Pedal
+    permalink: /hardware/pedal/get-a-pedal.html
+  - title: Adding Content
+    permalink: /adding-content.html
+  - title: Look and Feel
+    permalink: /look-and-feel.html
+  - title: Documentation Search
+    permalink: /documentation-search.html
+  - title: Hosting
+    permalink: /hosting.html
+  - title: Examples
+    permalink: /examples.html

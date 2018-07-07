@@ -1,0 +1,8 @@
+{
+    "plugins": ["styles-sass"],
+    "styles": {
+        "ebook": "./.styles/ebook.scss",
+        "website": "./.styles/website.scss",
+        "pdf": "./.styles/pdf.scss"
+    }
+}
