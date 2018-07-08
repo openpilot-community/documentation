@@ -1,4 +1,5 @@
 #!/bin/bash
+rm -rf ./src/_book
 set -e # Exit with nonzero exit code if anything fails
 
 SOURCE_BRANCH="master"
@@ -21,16 +22,21 @@ SHA=`git rev-parse --verify HEAD`
 git clone $REPO src/_book
 cd src/_book
 git checkout $TARGET_BRANCH || git checkout --orphan $TARGET_BRANCH
-cd ..
+cd ../../
 
 # Clean out existing contents
 rm -rf src/_book/**/* || exit 0
 
 # Run our compile script
 npm run docs:build
+
 ls -lah
+
 # Now let's go have some fun with the cloned repo
-cd _book
+cd src/_book
+
+ls -lah
+
 git config user.name "OPC CI"
 git config user.email "support@opc.ai"
 
@@ -41,6 +47,7 @@ git config user.email "support@opc.ai"
 # fi
 
 # Commit the "changes", i.e. the new version.
+# mv ./ ../../
 # The delta will show diffs between new and old versions.
 git add .
 git commit -m "Deploy to GitHub Pages: ${SHA}"
