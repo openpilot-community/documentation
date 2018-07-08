@@ -120,5 +120,6 @@ It looks a lot like Chffrplus, the only difference is — when plugged into 
 
 A special thanks to the original author of this write up found here:
 
-{% embed data="{\"url\":\"https://medium.com/@jfrux/comma-eon-initial-setup-with-openpilot-2b5ea58354a\",\"type\":\"link\",\"title\":\"Comma EON: Initial Setup with OpenPilot\",\"description\":\"As you may or may not know, the EON is NOT sold with OpenPilot pre-installed. Comma, Inc. does not currently sell a product to drive your…\",\"icon\":{\"type\":\"icon\",\"url\":\"https://cdn-images-1.medium.com/fit/c/304/304/1\*8I-HPL0bfoIzGied-dzOvA.png\",\"width\":152,\"height\":152,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://cdn-images-1.medium.com/max/2000/1\*jRVL3ynl9hZF\_3S3wEAOXg.jpeg\",\"width\":2000,\"height\":1500,\"aspectRatio\":0.75}}" %}
+Comma EON: Initial Setup with OpenPilot
+https://medium.com/@jfrux/comma-eon-initial-setup-with-openpilot-2b5ea58354a
 

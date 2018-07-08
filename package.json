@@ -1,0 +1,18 @@
+{
+  "name": "openpilot-documentation",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:openpilot-community/documentation.git",
+  "author": "The Openpilot Community <support@opc.ai>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "gitbook-cli": "^2.3.2",
+    "gitbook-plugin-collapsible-menu": "^1.0.3"
+  },
+  "scripts": {
+    "docs:prepare": "gitbook install",
+    "docs:watch": "npm run docs:prepare && gitbook serve",
+    "docs:build": "npm run docs:prepare && rm -rf _book && gitbook build"
+  }
+}

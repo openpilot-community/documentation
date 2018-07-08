@@ -25,10 +25,6 @@ Comma tries to stick to a 2 week sprint cycle and they release to devel mostly o
 
 ![](../.gitbook/assets/image%20%283%29.png)
 
-{% hint style="info" %}
-
-{% endhint %}
-
 ## Upcoming Deprecations 
 
 
