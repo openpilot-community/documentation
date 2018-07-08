@@ -1,10 +1,12 @@
-# The Openpilot Documentation Project
+# Introduction
 
-We're creating documentation for openpilot.
-This is unofficial and not affiliated with Comma.ai, Inc.
+![](.gitbook/assets/frame.png)
 
-The goal of this project is to supply high quality user documentation for hardware, and software related to openpilot semi-autonomous driving equipment.
+An open source documentation project for openpilot written for you by fellow members of the Comma community.
 
-## License
-Open sourced under the [MIT license](LICENSE.md).
-<3
+## How to contribute
+
+Your contributions to the documentation are always welcome and will continue to make this a necessary resource for newcomers and veterans alike.
+
+[About Contributing](documentation/contributing.md)
+
