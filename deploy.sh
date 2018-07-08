@@ -1,5 +1,4 @@
 #!/bin/bash
-ENCRYPTION_LABEL="574c8b2eb8e6"
 # rm -rf ./src/_book
 set -e # Exit with nonzero exit code if anything fails
 
