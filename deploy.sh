@@ -18,19 +18,19 @@ SHA=`git rev-parse --verify HEAD`
 
 # Clone the existing gh-pages for this repo into out/
 # Create a new empty branch if gh-pages doesn't exist yet (should only happen on first deply)
-git clone $REPO _book
-cd _book
+git clone $REPO src/_book
+cd src/_book
 git checkout $TARGET_BRANCH || git checkout --orphan $TARGET_BRANCH
 cd ..
 
 # Clean out existing contents
-rm -rf _book/**/* || exit 0
+rm -rf src/_book/**/* || exit 0
 
 # Run our compile script
 npm run docs:build
 
 # Now let's go have some fun with the cloned repo
-cd _book
+cd src/_book
 git config user.name "OPC CI"
 git config user.email "support@opc.ai"
 
