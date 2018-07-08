@@ -17,9 +17,6 @@ branches:
   only:
     - master
     - auto
-deploy:
-  provider: pages
-  skip_cleanup: true
 notifications:
   email: false
 env:
