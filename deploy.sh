@@ -22,6 +22,7 @@ SHA=`git rev-parse --verify HEAD`
 git clone $REPO src/_book
 cd src/_book
 git checkout $TARGET_BRANCH || git checkout --orphan $TARGET_BRANCH
+git status
 cd ../../
 
 # Clean out existing contents
