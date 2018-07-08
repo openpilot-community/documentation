@@ -81,6 +81,7 @@ eval `ssh-agent -s`
 echo "Adding deploy key... to local ssh"
 ssh-add ../deploy_key
 ls -lah
+git pull
 echo "Pushing to ${TARGET_BRANCH}..."
 # Now that we're all set up, we can push.
 git push $SSH_REPO $TARGET_BRANCH
