@@ -1,24 +1,7 @@
-sudo: required
-language: node_js
-node_js:
-  - "6.9.1"
-cache:
-  directories:
-    - node_modules # NPM packages
-before_install:
-  - openssl aes-256-cbc -K $encrypted_574c8b2eb8e6_key -iv $encrypted_574c8b2eb8e6_iv -in deploy_key.enc -out deploy_key -d
-install:
-  - npm install
-before_script:
-  - chmod +x ./deploy.sh
-script:
-  - ./deploy.sh
-branches:
-  only:
-    - master
-    - auto
-notifications:
-  email: false
+script: bash ./deploy.sh
 env:
   global:
     - ENCRYPTION_LABEL: "574c8b2eb8e6"
+language: node_js
+node_js:
+- stable
