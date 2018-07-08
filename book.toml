@@ -1,6 +1,0 @@
-[book]
-authors = ["Openpilot Community"]
-multilingual = false
-src = "src"
-title = "The Openpilot Documentation Project"
-create-missing = true
