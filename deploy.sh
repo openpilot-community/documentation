@@ -1,5 +1,5 @@
 #!/bin/bash
-rm -rf ./src/_book
+# rm -rf ./src/_book
 set -e # Exit with nonzero exit code if anything fails
 
 SOURCE_BRANCH="master"
