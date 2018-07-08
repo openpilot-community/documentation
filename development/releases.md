@@ -1,8 +1,6 @@
 # Future Releases
 
-{% hint style="danger" %}
 **PLEASE NOTE:** These are purely based on things released by Comma.ai, Inc.'s CEO publicly on Slack and Periscopes and may or may not change in the future.
-{% endhint %}
 
 ## Release Cycle
 
