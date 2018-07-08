@@ -5,11 +5,11 @@ SOURCE_BRANCH="master"
 TARGET_BRANCH="gh-pages"
 
 # Pull requests and commits to other branches shouldn't try to deploy, just build to verify
-if [ "$TRAVIS_PULL_REQUEST" != "false" -o "$TRAVIS_BRANCH" != "$SOURCE_BRANCH" ]; then
-    echo "Skipping deploy; just doing a build."
-    npm run docs:build
-    exit 0
-fi
+# if [ "$TRAVIS_PULL_REQUEST" != "false" -o "$TRAVIS_BRANCH" != "$SOURCE_BRANCH" ]; then
+#     echo "Skipping deploy; just doing a build."
+#     npm run docs:build
+#     exit 0
+# fi
 
 # Save some useful information
 REPO=`git config remote.origin.url`
@@ -28,9 +28,9 @@ rm -rf src/_book/**/* || exit 0
 
 # Run our compile script
 npm run docs:build
-
+ls -lah
 # Now let's go have some fun with the cloned repo
-cd src/_book
+cd _book
 git config user.name "OPC CI"
 git config user.email "support@opc.ai"
 
