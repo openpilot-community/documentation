@@ -80,6 +80,7 @@ chmod 600 ../deploy_key
 eval `ssh-agent -s`
 echo "Adding deploy key... to local ssh"
 ssh-add ../deploy_key
+ls -lah
 echo "Pushing to ${TARGET_BRANCH}..."
 # Now that we're all set up, we can push.
 git push $SSH_REPO $TARGET_BRANCH
