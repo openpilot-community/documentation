@@ -8,7 +8,7 @@
   color:#777;
 }
 .gitbook-link {
-  display:none;
+  display:none!important;
 }
 
 #book-search-input {
