@@ -45,12 +45,16 @@
   * [Pedal](docs/hardware/pedal/README.md)
     * [Get a Pedal](docs/hardware/pedal/get-a-pedal.md)
     * [Guides](docs/hardware/pedal/guides/README.md)
-      - [Building with MacroFab](docs/hardware/pedal/guides/building-with-macrofab.md)
-      - [Flashing the Firmware](docs/hardware/pedal/guides/flashing-the-firmware.md)
-      - [Wiring the Connectors](docs/hardware/pedal/guides/wiring-the-connectors.md)
-      - [Installing in Your Vehicle](docs/hardware/pedal/guides/installing-in-your-vehicle.md)
+      * [Building with MacroFab](docs/hardware/pedal/guides/building-with-macrofab.md)
+      * [Flashing the Firmware](docs/hardware/pedal/guides/flashing-the-firmware.md)
+      * [Wiring the Connectors](docs/hardware/pedal/guides/wiring-the-connectors.md)
+      * [Installing in Your Vehicle](docs/hardware/pedal/guides/installing-in-your-vehicle.md)
 * [Development](docs/development/README.md)
-  * [Future Releases](docs/development/releases.md)
+  * [Customizations](/docs/development/customizations.md "Customizations")
+* * [Future Releases](docs/development/releases.md)
 * [Documentation](docs/documentation/README.md)
   * [Contributing](docs/documentation/contributing.md)
   * [Markdown](docs/documentation/documentation-formatting.md)
+
+
+
