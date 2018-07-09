@@ -1,3 +1,22 @@
 {
-  "plugins": ["collapsible-menu"]
+  "gitbook": "3.2.2",
+  "title": "The Openpilot Documentation Project",
+  "description": "",
+  "plugins": [
+    "edit-link",
+    "github",
+    "-search",
+    "codeblock-disable-glossary",
+    "chapter-fold",
+    "anchors"
+  ],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/openpilot-community/documentation/tree/master",
+      "label": "Edit This Page"
+    },
+    "github": {
+      "url": "https://github.com/openpilot-community/documentation/"
+    }
+  }
 }

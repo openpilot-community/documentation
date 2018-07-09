@@ -1,5 +1,5 @@
 #!/bin/bash
-# rm -rf ./src/_book
+# rm -rf ./_book
 set -e # Exit with nonzero exit code if anything fails
 
 SOURCE_BRANCH="master"
@@ -36,8 +36,8 @@ npm run docs:build
 
 # ls -lah
 
-echo "Moving ./src/_book/* to ./out/"
-mv ./src/_book/* ./out/
+echo "Moving ./_book/* to ./out/"
+mv ./_book/* ./out/
 # Now let's go have some fun with the cloned repo
 echo "Changing into the out directory"
 cd out

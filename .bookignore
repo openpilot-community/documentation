@@ -1,0 +1,7 @@
+package.json
+.gitignore
+deploy_key.enc
+deploy.sh
+yarn.lock
+.travis.yml
+.bookignore
