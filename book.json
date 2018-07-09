@@ -10,6 +10,7 @@
     "noembed",
     "last-modified",
     "download-pdf-link",
+    "add-js-css",
     "itoc"
   ],
   "pluginsConfig": {
@@ -19,6 +20,14 @@
     "edit-link": {
       "base": "https://github.com/openpilot-community/documentation/tree/master",
       "label": "Edit This Page"
+    },
+    "add-js-css": {
+      "js": [
+        "./docs/docs.js"
+      ],
+      "css": [
+        "./docs/docs.css"
+      ]
     },
     "github": {
       "url": "https://github.com/openpilot-community/documentation/"

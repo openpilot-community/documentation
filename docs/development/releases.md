@@ -6,7 +6,7 @@
 
 Comma tries to stick to a 2 week sprint cycle and they release to devel mostly on Sunday's and to release2 on Monday's.
 
-## Features to look for in future releases
+### Features to look for in future releases
 
 * **v0.6.x**
   * Fix wind and further improve wobble
@@ -21,8 +21,8 @@ Comma tries to stick to a 2 week sprint cycle and they release to devel mostly o
   * Driver Monitoring
   * Updated UI for the "Home" screen _NOTE: The below image may not represent the actual UI but is merely a concept based on information released by George over Periscope._ 
 
-  ![](../.gitbook/assets/dashboard-3x.png)
+  ![](../../.gitbook/assets/dashboard-3x.png)
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../../.gitbook/assets/image%20%283%29.png)
 
 

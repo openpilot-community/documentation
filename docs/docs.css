@@ -1,0 +1,33 @@
+.book-summary {
+  background-color:#000000;
+}
+.book-summary ul.summary li.active>a {
+  color:#FFF;
+}
+.book-summary ul.summary li a, .book-summary ul.summary li span {
+  color:#777;
+}
+.gitbook-link {
+  display:none;
+}
+
+#book-search-input {
+  padding: 6px;
+  background: 0 0;
+  transition: top .5s ease;
+  background: #333;
+  color:#FFF;
+  border-bottom: 1px solid rgba(0,0,0,.07);
+  border-top: 1px solid rgba(0,0,0,.07);
+  margin-bottom: 10px;
+  margin-top: -1px;
+}
+
+.logo {
+  background-image: url(/.gitbook/assets/logo-horizontal.svg);
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  height: 75px;
+  width: 100%;
+  background-position: left center;
+}
