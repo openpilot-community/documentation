@@ -9,5 +9,5 @@ Removing Giraffe is usually not necessary, but if you feel the need to remove it
 
 We've found that using a flat head screw driver gently to reach the tab it tends to just pop right out with very light pressure.
 
-![](../../../../.gitbook/assets/image%20%282%29.png)
+![](..//assets/images/image%20%282%29.png)
 

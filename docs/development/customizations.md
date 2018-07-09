@@ -6,6 +6,12 @@ Although some things will never be supported by Comma.ai, Inc. They're kind enou
 
 That being said, starting it off here.
 
-# Driving UI
+## Driving UI
 The first and seemingly most popular request is showing more statistics / information on the screen as you're driving.
 This code is not available in the core codebase and has been added by various community members.
+
+![](/assets/images/customizations_2018-07-09-10-31-02.png)
+
+### Code for this customization
+
+Find this customization at [ErichMoraga/openpilot](https://github.com/ErichMoraga/openpilot/blob/94bee05480ed00251e72b0a5f87617d45dc6eb16/selfdrive/ui/ui.c)

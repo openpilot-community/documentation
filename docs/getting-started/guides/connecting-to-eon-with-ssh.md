@@ -127,5 +127,4 @@ If you have any troubles with any of the steps above, feel free to leave a comme
 
 Now that you’re connected to SSH, you can do many different tasks within your EON.
 
-[**Comma EON: Installing a Fork of OpenPilot**
-*If your vehicle is not 100% supported by Comma, Inc. you may find yourself needing to use a slightly different version of OpenPilot rather…*medium.com](https://medium.com/@jfrux/comma-eon-installing-a-fork-of-openpilot-5c2b5c134b4b)
+[Comma EON: Installing a Fork of OpenPilot](./installing-a-fork-of-openpilot.html)
