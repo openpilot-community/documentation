@@ -4,5 +4,5 @@ We didn't think it made much sense to write an entire document on Markdown but w
 
 Think of this like a cheat sheet for how to format your openpilot documents.
 
-[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 

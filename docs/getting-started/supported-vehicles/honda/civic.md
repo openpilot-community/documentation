@@ -14,9 +14,11 @@
 * Uses stock Honda Sensing for longitudinal control
 
 ## Videos
-0.4.7 \(NEW DRIVING MODEL\)
-https://www.youtube.com/watch?v=9TDi0BHgXyo
 
-Self Driving Civic
-https://www.youtube.com/watch?v=XaVs__Bmhms&feature=youtu.be
+{{ 'https://www.youtube.com/watch?v=62NIAyTxcjk' | video }}
 
+{{ 'https://www.youtube.com/watch?v=9TDi0BHgXyo' | video }}
+
+{{ 'https://www.youtube.com/watch?v=XaVs__Bmhms' | video }}
+
+{{ 'https://www.youtube.com/watch?v=IHjEqAKDqjM' | video }}

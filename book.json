@@ -5,12 +5,17 @@
   "plugins": [
     "edit-link",
     "github",
-    "-search",
-    "codeblock-disable-glossary",
+    "alerts",
     "chapter-fold",
-    "anchors"
+    "noembed",
+    "last-modified",
+    "download-pdf-link",
+    "itoc"
   ],
   "pluginsConfig": {
+    "download-pdf-link": {
+      "base" : "https://opc.ai/documentation/"
+    },
     "edit-link": {
       "base": "https://github.com/openpilot-community/documentation/tree/master",
       "label": "Edit This Page"

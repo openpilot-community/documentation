@@ -1,14 +1,15 @@
 # Model S
 
-![](../../../.gitbook/assets/image%20%281%29.png)
+## Supported Models
 
-## Overview of Support
-
-This is pre-autopilot 2013, 2014's.
+Pre-autopilot 2013, 2014's.
 
 ## Repository
 
 `https://github.com/jeankalud/openpilot`
 
+## Videos
 
-
+{{ 'https://www.youtube.com/watch?v=iRkz7FuJsA8' | video }}
+{{ 'https://www.youtube.com/watch?v=UkS-iJ5auD4' | video }}
+{{ 'https://www.youtube.com/watch?v=F8OwdVbwps4' | video }}

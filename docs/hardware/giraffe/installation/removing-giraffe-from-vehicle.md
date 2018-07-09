@@ -1,10 +1,6 @@
----
-description: >-
-  Removing Giraffe is usually not necessary, but if you feel the need to remove
-  it for whatever reason, here is a quick guide.
----
-
 # Removing Giraffe from Vehicle
+
+Removing Giraffe is usually not necessary, but if you feel the need to remove it for whatever reason, here is a quick guide.
 
 * From the back of the Giraffe
 * Follow it up from the bottom

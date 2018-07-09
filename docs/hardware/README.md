@@ -1,6 +1,9 @@
----
-description: A list of hardware used to run and assist openpilot.
----
-
 # Hardware
 
+### [EON](eon)
+
+### [Giraffe](giraffe)
+
+### [Panda](panda)
+
+### [Pedal](pedal)
