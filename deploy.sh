@@ -1,7 +1,6 @@
 #!/bin/bash
 # rm -rf ./_book
 set -e # Exit with nonzero exit code if anything fails
-sudo apt-get install libcairo2-dev libjpeg-dev libpango1.0-dev libgif-dev build-essential g++
 SOURCE_BRANCH="master"
 TARGET_BRANCH="gh-pages"
 
