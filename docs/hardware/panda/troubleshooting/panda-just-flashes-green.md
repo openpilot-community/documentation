@@ -1,2 +1,0 @@
-# Panda just flashes green
-

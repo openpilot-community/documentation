@@ -2,31 +2,27 @@
   "gitbook": "3.2.2",
   "title": "The Openpilot Documentation Project",
   "description": "",
+  "structure": {
+    "summary": "TABLE_OF_CONTENTS.md"
+  },
   "plugins": [
     "edit-link",
-    "github",
     "alerts",
     "chapter-fold",
     "noembed",
-    "last-modified",
-    "download-pdf-link",
-    "add-js-css",
-    "itoc"
+    "add-js-css"
   ],
   "pluginsConfig": {
-    "download-pdf-link": {
-      "base" : "https://opc.ai/documentation/"
-    },
     "edit-link": {
       "base": "https://github.com/openpilot-community/documentation/tree/master",
       "label": "Edit This Page"
     },
     "add-js-css": {
       "js": [
-        "./docs/docs.js"
+        "./.assets/openpilot-docs.js"
       ],
       "css": [
-        "./docs/docs.css"
+        "./.assets/openpilot-docs.css"
       ]
     },
     "github": {
