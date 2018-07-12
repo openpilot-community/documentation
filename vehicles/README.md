@@ -7,12 +7,9 @@ Openpilot is compatible with several vehicle makes already so feel free to brows
 ## Makes
 
 This is the current list of makes being tested and/or actively supported by either community members or Comma.ai.
-
 Varying levels of support and/or testing are being done on these makes so please follow the links below to keep up to date on individual progress.
 
-A data source for our pages heavily comes from this maintained Google Sheet which we will continue to check and keep this up to date.
-
-You can find that sheet [here](https://docs.google.com/spreadsheets/d/1yDj2PqF-q9vcqpuMI9mnEmXTo-c056MQEaZUHmqGFnc/edit?usp=sharing).
+A data source we rely on heavily for this data is maintained on a [Google Sheet](https://docs.google.com/spreadsheets/d/1yDj2PqF-q9vcqpuMI9mnEmXTo-c056MQEaZUHmqGFnc/edit?usp=sharing).
 
 {% for article in summary.parts[page.level.split('.')[0]-1].articles %}
 {% if (article.title !== "Overview") %}
