@@ -1555,6 +1555,12 @@ gitbook-plugin-sharing@1.0.2:
   dependencies:
     lodash "^3.10.1"
 
+gitbook-plugin-sitemap@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/gitbook-plugin-sitemap/-/gitbook-plugin-sitemap-1.2.0.tgz#8677993750b965838c906fe7cfc0a207c0d06dcb"
+  dependencies:
+    sitemap "1.5.0"
+
 gitbook-plugin-styles-sass-fix@^1.1.2:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/gitbook-plugin-styles-sass-fix/-/gitbook-plugin-styles-sass-fix-1.1.2.tgz#ae727397431566f4b16c549dd240af553a1d6d04"
@@ -4283,6 +4289,13 @@ signal-exit@^3.0.0, signal-exit@^3.0.2:
   version "3.0.2"
   resolved "https://registry.yarnpkg.com/signal-exit/-/signal-exit-3.0.2.tgz#b5fdc08f1287ea1178628e415e25132b73646c6d"
 
+sitemap@1.5.0:
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/sitemap/-/sitemap-1.5.0.tgz#45b3e889bf7a5db0efbf2c4c6fcb156ca87e1201"
+  dependencies:
+    underscore "^1.7.0"
+    url-join "^0.0.1"
+
 slash@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/slash/-/slash-1.0.0.tgz#c41f2f6c39fc16d1cd17ad4b5d896114ae470d55"
@@ -4721,6 +4734,10 @@ umask@~1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/umask/-/umask-1.1.0.tgz#f29cebf01df517912bb58ff9c4e50fde8e33320d"
 
+underscore@^1.7.0:
+  version "1.9.1"
+  resolved "https://registry.yarnpkg.com/underscore/-/underscore-1.9.1.tgz#06dce34a0e68a7babc29b365b8e74b8925203961"
+
 unique-filename@^1.1.0, unique-filename@~1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/unique-filename/-/unique-filename-1.1.0.tgz#d05f2fe4032560871f30e93cbe735eea201514f3"
@@ -4767,6 +4784,10 @@ update-notifier@~2.2.0:
 urijs@1.18.0:
   version "1.18.0"
   resolved "https://registry.yarnpkg.com/urijs/-/urijs-1.18.0.tgz#091cbb7f6d60401b2e5e35c57a04177b9bbd12f2"
+
+url-join@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/url-join/-/url-join-0.0.1.tgz#1db48ad422d3402469a87f7d97bdebfe4fb1e3c8"
 
 url-parse-lax@^1.0.0:
   version "1.0.0"

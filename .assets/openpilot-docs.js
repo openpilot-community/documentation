@@ -1,9 +1,11 @@
 
 
 require(['gitbook'], function(gitbook) {
+  console.warn("gitbook:",gitbook);
   gitbook.events.bind('page.change', function() {
+    console.warn("page.change:",gitbook);
     if (!$(".book-summary .logo").length) {
-      $(".book-summary").prepend("<a href=\"/\" class=\"logo\"></a>");
+      $(".book-summary").prepend("<a href=\"" + gitbook.state.bookRoot + "\" class=\"logo\"></a>");
     }
 
     $(".navigation").each((i,val) => {
