@@ -20,8 +20,6 @@ Your contributions to the documentation are always welcome and will continue to 
 
 [About Contributing](documentation/contributing.md)
 
-[![Build Status](https://travis-ci.org/openpilot-community/documentation.svg?branch=master)](https://travis-ci.org/openpilot-community/documentation)
-
 ## Support the efforts
 
 All of this is paid for and maintained for free.
