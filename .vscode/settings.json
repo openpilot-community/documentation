@@ -1,0 +1,28 @@
+{
+  "pasteImage.defaultName": "Y-MM-DD-HH-mm-ss",
+
+  // The string append to the image file name.How to encode image path before insert to editor. Support options: none, urlEncode, urlEncodeSpace
+  "pasteImage.encodePath": "urlEncodeSpace",
+
+  // Force set the file separator styel to unix style. If set false, separator styel will follow the system style.
+  "pasteImage.forceUnixStyleSeparator": true,
+
+  // The pattern of string that would be pasted to text.
+  "pasteImage.insertPattern": "${imageSyntaxPrefix}${imageFilePath}${imageSyntaxSuffix}",
+
+  // The string prepend to the image file name.
+  "pasteImage.namePrefix": "${currentFileNameWithoutExt}_",
+
+  // The string append to the image file name.
+  "pasteImage.nameSuffix": "",
+
+  // The destination to save image file.You can use variable ${currentFileDir} and ${projectRoot}. ${currentFileDir} will be replace by the path of directory that contain current editing file. ${projectRoot} will be replace by path of the project opened in vscode.
+  "pasteImage.path": "${projectRoot}/images",
+  "pasteImage.basePath": "${projectRoot}",
+
+  // The string prepend to the resolved image path before paste.
+  "pasteImage.prefix": "/",
+
+  // The string append to the resolved image path before paste.
+  "pasteImage.suffix": "",
+}

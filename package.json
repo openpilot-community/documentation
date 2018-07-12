@@ -1,0 +1,28 @@
+{
+  "name": "openpilot-documentation",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:openpilot-community/documentation.git",
+  "author": "The Openpilot Community <support@opc.ai>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "gitbook": "^3.2.3",
+    "gitbook-cli": "^2.3.2",
+    "gitbook-plugin-add-js-css": "^0.0.1",
+    "gitbook-plugin-alerts": "^0.2.0",
+    "gitbook-plugin-chapter-fold": "^0.0.4",
+    "gitbook-plugin-collapsible-menu": "^1.0.3",
+    "gitbook-plugin-edit-link": "^2.0.2",
+    "gitbook-plugin-noembed": "^0.1.0",
+    "gitbook-plugin-sitemap": "^1.2.0",
+    "gitbook-plugin-styles-sass-fix": "^1.1.2",
+    "gitbook-plugin-theme-openpilot": "openpilot-community/theme-openpilot",
+    "node-sass": "^4.9.2"
+  },
+  "scripts": {
+    "docs:prepare": "gitbook install",
+    "docs:watch": "npm run docs:prepare && gitbook serve",
+    "docs:build": "npm run docs:prepare && gitbook build"
+  }
+}

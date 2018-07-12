@@ -1,0 +1,46 @@
+{
+  "gitbook": "3.2.2",
+  "title": "The Openpilot Documentation Project",
+  "description": "",
+  "structure": {
+    "summary": "TABLE_OF_CONTENTS.md"
+  },
+  "plugins": [
+    "anchorjs",
+    "sitemap",
+    "edit-link",
+    "alerts",
+    "chapter-fold",
+    "noembed",
+    "add-js-css",
+    "theme-openpilot"
+  ],
+  "pluginsConfig": {
+    "anchorjs": {
+      "selector": "h2,h3,h4,h5",
+      "icon": "#",
+      "placement": "left",
+      "class": "heading-anchor fa fa-link",
+      "truncate": 64,
+      "ariaLabel": "Anchor"
+    },
+    "sitemap": {
+      "hostname": "https://opc.ai/documentation"
+    },
+    "edit-link": {
+      "base": "https://github.com/openpilot-community/documentation/tree/master",
+      "label": "Edit This Page"
+    },
+    "add-js-css": {
+      "js": [
+        "./.assets/openpilot-docs.js"
+      ],
+      "css": [
+        "./.assets/openpilot-docs.css"
+      ]
+    },
+    "github": {
+      "url": "https://github.com/openpilot-community/documentation/"
+    }
+  }
+}
