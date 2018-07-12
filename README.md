@@ -30,8 +30,8 @@ All of this is paid for and maintained for free.
 
 If you're interested, we are offering beautiful stickers for sale to help support the project, domain expenses, and hosting expenses.
 
-![](images/2018-07-12-15-27-42.png)
+[![](images/2018-07-12-15-27-42.png)](https://www.redbubble.com/people/jfrux?asc=u)
 
 We will also vow to continue to donate our time to writing great articles and documents for you and the community.
 
-[Buy some stickers now!](https://redbubble.com/jfrux)
+[Buy some stickers now!](https://www.redbubble.com/people/jfrux?asc=u)
