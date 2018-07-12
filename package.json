@@ -17,6 +17,7 @@
     "gitbook-plugin-noembed": "^0.1.0",
     "gitbook-plugin-sitemap": "^1.2.0",
     "gitbook-plugin-styles-sass-fix": "^1.1.2",
+    "gitbook-plugin-theme-default": "openpilot-community/theme-default",
     "node-sass": "^4.9.2"
   },
   "scripts": {

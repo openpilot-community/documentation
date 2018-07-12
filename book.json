@@ -6,11 +6,13 @@
     "summary": "TABLE_OF_CONTENTS.md"
   },
   "plugins": [
+    "sitemap",
     "edit-link",
     "alerts",
     "chapter-fold",
     "noembed",
-    "add-js-css"
+    "add-js-css",
+    "theme-openpilot"
   ],
   "pluginsConfig": {
     "sitemap": {
