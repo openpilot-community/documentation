@@ -28,6 +28,7 @@ All of this is paid for and maintained for free.
 
 ### Buy stickers, show support
 
+
 If you're interested, we are offering beautiful stickers for sale to help support the project, domain expenses, and hosting expenses.
 
 [![](images/2018-07-12-15-27-42.png)](https://www.redbubble.com/people/jfrux?asc=u)
