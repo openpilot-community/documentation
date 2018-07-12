@@ -6,7 +6,7 @@ The open source initiative to document [commaai/openpilot](https://github.com/co
 
 Our documents and guides will try not to assume prior knowledge of any specific term or topic (within reason).
 
-# Why
+## Why
 
 The current goals of the openpilot project have a lot to do with progress and prototyping to move the technology forward and very few people are interested in moving the on-boarding experience forward.  That's nobody's fault really, it's just the facts.
 
