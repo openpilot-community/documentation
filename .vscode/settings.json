@@ -17,7 +17,7 @@
   "pasteImage.nameSuffix": "",
 
   // The destination to save image file.You can use variable ${currentFileDir} and ${projectRoot}. ${currentFileDir} will be replace by the path of directory that contain current editing file. ${projectRoot} will be replace by path of the project opened in vscode.
-  "pasteImage.path": "${projectRoot}/assets/images",
+  "pasteImage.path": "${projectRoot}/images",
   "pasteImage.basePath": "${projectRoot}",
 
   // The string prepend to the resolved image path before paste.

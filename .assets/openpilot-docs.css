@@ -51,7 +51,7 @@
   position: relative;
   margin: 0 auto;
   max-width:initial;
-  padding: 65px 25px 40px 25px;
+  padding: 65px 25px 110px 25px;
 }
 
 .navigation {
@@ -95,6 +95,7 @@
   margin-bottom: 16px;
   font-weight: 600;
   line-height: 1.25;
+  position:relative;
 }
 .markdown-section>*:first-child {
   margin-top: 0 !important;
@@ -241,4 +242,30 @@
   .navigation .label-page-title {
     display: none;
   }
+}
+
+.markdown-section img {
+  max-width:100%;
+}
+
+.anchorjs-link {
+  font-size: 17px;
+  display: block;
+  height: 100%;
+  width: 41px;
+  position:relative;
+}
+
+.anchorjs-link:before {
+  position: absolute;
+  top: 50%;
+  left: 32px;
+  transform: translate(-50%,-50%);
+
+  padding: 4px 6px;
+  background-color: #FFF!important;
+  border: 1px solid #EEE;
+}
+.anchorjs-link:after {
+  display:none;
 }

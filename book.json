@@ -6,6 +6,7 @@
     "summary": "TABLE_OF_CONTENTS.md"
   },
   "plugins": [
+    "anchorjs",
     "sitemap",
     "edit-link",
     "alerts",
@@ -15,6 +16,14 @@
     "theme-openpilot"
   ],
   "pluginsConfig": {
+    "anchorjs": {
+      "selector": "h2,h3,h4,h5",
+      "icon": "#",
+      "placement": "left",
+      "class": "heading-anchor fa fa-link",
+      "truncate": 64,
+      "ariaLabel": "Anchor"
+    },
     "sitemap": {
       "hostname": "https://opc.ai/documentation"
     },
