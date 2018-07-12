@@ -28,8 +28,9 @@ All of this is paid for and maintained for free.
 
 ### Buy stickers, show support
 
-![](images/2018-07-12-15-27-42.png)
 If you're interested, we are offering beautiful stickers for sale to help support the project, domain expenses, and hosting expenses.
+
+![](images/2018-07-12-15-27-42.png)
 
 We will also vow to continue to donate our time to writing great articles and documents for you and the community.
 
