@@ -6,6 +6,7 @@
     "summary": "TABLE_OF_CONTENTS.md"
   },
   "plugins": [
+    "ga",
     "anchorjs",
     "sitemap",
     "edit-link",
@@ -30,6 +31,9 @@
     "edit-link": {
       "base": "https://github.com/openpilot-community/documentation/tree/master",
       "label": "Edit This Page"
+    },
+    "ga": {
+      "token": "UA-122297332-1"
     },
     "add-js-css": {
       "js": [
