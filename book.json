@@ -8,6 +8,7 @@
   "plugins": [
     "edit-link",
     "alerts",
+    "-search",
     "chapter-fold",
     "noembed",
     "add-js-css"
