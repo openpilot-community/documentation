@@ -19,18 +19,3 @@ What better way to do that than with GitHub and some Markdown.
 Your contributions to the documentation are always welcome and will continue to make this a necessary resource for newcomers and veterans alike.
 
 [About Contributing](documentation/contributing.md)
-
-## Support the efforts
-
-All of this is paid for and maintained for free.
-
-### Buy stickers, show support
-
-
-If you're interested, we are offering beautiful stickers for sale to help support the project, domain expenses, and hosting expenses.
-
-[![](images/2018-07-12-15-27-42.png)](https://www.redbubble.com/people/jfrux/shop?asc=u)
-
-We will also vow to continue to donate our time to writing great articles and documents for you and the community.
-
-[Buy some stickers now!](https://www.redbubble.com/people/jfrux/shop?asc=u)
