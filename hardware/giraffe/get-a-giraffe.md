@@ -1,5 +1,9 @@
 # Get a Giraffe
 
+## Find the one you need
+
+Use the Vehicle pages to the left to find the right Giraffe required for your vehicle make and model.
+
 ## Purchase directly from Comma
 
 There are many ways to acquire a Giraffe but the easiest way by far is to purchase it directly from [shop.comma.ai](https://shop.comma.ai/).  Devices purchased from [shop.comma.ai](https://shop.comma.ai/) are personally built, tested, and shipped directly from the team in San Francisco.  It is the only "official" place to purchase one.

@@ -1,6 +1,6 @@
 {% include "../.base/vehicle-model-header.md" %}
 
-\n## Supported Models
+## Supported Models
 
 ### 2018 Honda Odyssey w/ Honda Sensing
 

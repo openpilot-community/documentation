@@ -1,6 +1,6 @@
 {% include "../.base/vehicle-model-header.md" %}
 
-\n## Supported Models
+## Supported Models
 
 ### 2016+ Toyota RAV-4 Non-Hybrid w/ TSS-P
 

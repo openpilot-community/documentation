@@ -26,9 +26,12 @@
 * [Tesla](./vehicles/tesla/README.md)
   * [Model S](./vehicles/tesla/model-s.md)
 * [Toyota](./vehicles/toyota/README.md)
+  * [Camry](./vehicles/toyota/camry.md)
+  * [C-HR](./vehicles/toyota/c-hr.md)
   * [Corolla](./vehicles/toyota/corolla.md)
   * [Prius](./vehicles/toyota/prius.md)
   * [RAV-4](./vehicles/toyota/rav-4.md)
+* [Support Table](./vehicles/support.md)
 
 ### Hardware
 

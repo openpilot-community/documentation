@@ -1,6 +1,6 @@
 {% include "../.base/vehicle-model-header.md" %}
 
-\n## Supported Models
+## Supported Models
 
 ### 2017-2018 Honda CR-V w/ Honda Sensing
 

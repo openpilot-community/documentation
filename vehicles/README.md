@@ -13,7 +13,9 @@ A data source we rely on heavily for this data is maintained on a [Google Sheet]
 
 {% for article in summary.parts[page.level.split('.')[0]-1].articles %}
 {% if (article.title !== "Overview") %}
+{% if (article.title !== "Support Table") %}
  - [{{ article.title }}](/{{ article.path }})
+{% endif %}
 {% endif %}
 {% endfor %}
 

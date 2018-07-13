@@ -1,8 +1,6 @@
 # Types of Giraffes
 
-## Types
-
-There are 3 types of Giraffe's you can buy from Comma.ai but many community members have built custom ones for other members as well.
+There are 3 official types of Giraffe's you can buy from Comma.ai but many community members have built custom ones for specific vehicle requirements.  Visit the [Vehicles](/vehicles) section to find the right Giraffe for your vehicle make / model.
 
 ## Honda \(Nidec\)
 

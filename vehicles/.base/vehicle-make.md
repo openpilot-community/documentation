@@ -1,13 +1,15 @@
 # {{ page.title }}
 
 {% block preIntroMessage %}
-
 {% endblock %}
 
 {% block introMessage %}
 The goal is to always support as many vehicles as possible.
 
 Openpilot is compatible with *some* **{{ page.title }}** model(s) so feel free to browse the support pages for these models below for additional specifics.
+{% endblock %}
+
+To chat about {{ page.title }}'s with the community, checkout the [Openpilot {{ page.title }} Chat](https://spectrum.chat/openpilot/{{ page.title | lower}})
 
 ## Models
 
@@ -16,7 +18,22 @@ This is the current list of {{page.title}} models being tested and/or actively s
 {% for article in summary.parts[page.level.split('.')[0]-1].articles[page.level.split('.')[1]-1].articles %}
  - [{{ article.title }}](/{{ article.path }})
 {% endfor %}
+
+## Required Hardware
+
+If you have checked your vehicle model page and are confident your vehicle is supported, or you're interested in porting an unsupported vehicle, here are some things you'll need to purchase.
+
+- 1 x [EON](/hardware/eon/)
+- 1 x [Panda](/hardware/panda/)
+- 1 x [Giraffe](/hardware/giraffe/)
+
+{% if addlRequirements %}
+
+### Addl. Requirements for {{ page.title }}
+
+{% block addlRequirements %}
 {% endblock %}
+{% endif %}
 
 ## How to add support for a vehicle
 
