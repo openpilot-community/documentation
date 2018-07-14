@@ -1,3 +1,24 @@
+# Capture a screenshot
+
+If you want an easy way to capture a quick screenshot with the EON then look no further.  It's honestly the best I could come up with given my limited knowledge with Android and my options so if you have better solution please reach out and let me know.
+
+The secret seems to lie in getting into the `su ` which essentially elevates your privilages to run commands on the Android shell.
+
+I will put this in a single-line script eventually but here is the commands to run quick screenshots.
+
+[SSH into the EON](/development/guides/connecting-to-eon-with-ssh.md) first and then...
+
+```shell
+su
+mkdir -p /data/screenshots
+```
+
+
+
+## Create this shell script
+
+Copy this script below (CMD+C)
+
 ```sh
 #!/bin/sh
 
@@ -116,3 +137,57 @@ if $errors; then
     exit 1
 fi
 ```
+
+Run this script inside your SSH terminal window.
+
+```shell
+nano /data/imgupload.sh
+```
+
+And paste the script you copied earlier into this file.
+
+Now hit `CTRL+X` and `Y` to save the file.
+
+Now make the script executable with:
+
+```shell
+chmod +x /data/imgupload.sh
+```
+
+Create a screenshot...
+
+```shell
+screencap -d /data/screenshots/screenshot.png
+```
+
+To upload the screenshot...
+
+```shell
+/data/screenshots/imgupload.sh /data/screenshots/screenshot.png
+```
+
+You could wrap all of this up in a single shell script...
+
+```shell
+#!/bin/sh
+
+// elevates privilates
+su
+
+// makes directory if it doesn't exist...
+mkdir -p /data/screenshots
+
+// change into screenshots directory
+cd /data/screenshots/
+
+// capture screenshot
+screencap -d /data/screenshots/screenshot.png
+
+./imgupload.sh ./screenshot.png
+```
+
+Keep in mind, this is not necessarily working code.
+
+But you get the idea of what we're going for here.
+
+The earlier commands should work great though.

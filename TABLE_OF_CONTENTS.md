@@ -40,6 +40,7 @@
   * [Installation](./hardware/eon/installation/README.md)
     * [How to Mount the EON](./hardware/eon/installation/how-to-mount.md)
     * [Universal Ball Mount](./hardware/eon/installation/universal-ball-mount.md)
+  
 * [Giraffe](./hardware/giraffe/README.md)
   * [Get a Giraffe](./hardware/giraffe/get-a-giraffe.md)
   * [Installation](./hardware/giraffe/installation/README.md)
@@ -65,6 +66,8 @@
   * [Connecting to EON with SSH](./development/guides/connecting-to-eon-with-ssh.md)
   * [Installing Addl. Tools for SSH on Windows](./development/guides/installing-additional-tools-ssh-windows10.md)
   * [Adding Vehicle Support](./development/guides/add-support-for-a-vehicle.md)
+  * [Capture a screenshot](./development/guides/capture-a-screenshot.md)
+  * [Compare two fingerprints](./development/guides/diff-fingerprints.md)
 
 ### Help us document
 
