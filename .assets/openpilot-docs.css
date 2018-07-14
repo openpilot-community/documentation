@@ -279,9 +279,55 @@
 }
 
 .github-links a {
-  color:#333;
+  line-height: 44px;
+  color: #333;
+  font-weight: 400;
+  font-size: 16px;
+  position: relative;
+  display: block;
+  padding-left:25px;
+}
+#book-search-input {
+  background: #000;
+}
+#book-search-input input, #book-search-input input:focus, #book-search-input input:hover {
+  background: rgba(255,255,255,0.1);
+  padding: 7px 17px;
+  border-radius: 100px;
+  margin-bottom:0;
+}
+.github-links a .fa {
+  position:absolute;
+  left: 0;
+  top:50%;
+  font-size:24px;
+  transform:translateY(-50%);
 }
 
 .hints-container p:last-child {
   margin-bottom:0;
+}
+
+.alert.alert-info {
+  background: #f7ecd9;
+  border-color: #f1e0bc;
+  color: #8f6d31;
+}
+
+.alert.alert-info a {
+  color: #77551b;
+}
+
+.book-summary ul.summary li.header:first-child {
+  padding-top: 0;
+}
+
+.btn.btn-primary {
+  background-color:#000;
+  border:1px solid #000;
+  color:#FFF;
+  font-weight:500;;
+  border-radius:5px;
+  padding:10px 25px;
+  
 }
