@@ -269,3 +269,19 @@
 .anchorjs-link:after {
   display:none;
 }
+
+.github-links {
+  position: absolute;
+  top: 50%;
+  right: 14px;
+  transform: translateY(-50%);
+  
+}
+
+.github-links a {
+  color:#333;
+}
+
+.hints-container p:last-child {
+  margin-bottom:0;
+}

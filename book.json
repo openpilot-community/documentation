@@ -10,9 +10,10 @@
     "anchorjs",
     "sitemap",
     "edit-link",
-    "alerts",
+    "hints",
     "chapter-fold",
     "noembed",
+    "-sharing",
     "add-js-css",
     "theme-openpilot"
   ],

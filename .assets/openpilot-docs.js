@@ -2,8 +2,15 @@
 
 require(['gitbook'], function(gitbook) {
   console.warn("gitbook:",gitbook);
+  
   gitbook.events.bind('page.change', function() {
-    console.warn("page.change:",gitbook);
+    var $githubLinks = $("<div class=\"github-links\"></div>");
+    var $bookHeader = $(".book-header");
+
+    $bookHeader.append($githubLinks);
+
+    $githubLinks.append("<a class=\"github-link\" href=\"https://github.com/commaai/openpilot\"><span class=\"fa fa-github\"></span> commaai/openpilot</a>");
+
     if (!$(".book-summary .logo").length) {
       $(".book-summary").prepend("<a href=\"" + gitbook.state.bookRoot + "\" class=\"logo\"></a>");
     }
