@@ -1,10 +1,8 @@
 {% include "../.base/vehicle-model-header.md" %}
 
-
 ## Supported Models
 
 Pre-autopilot 2013, 2014's.
-
 ## Repository
 
 `https://github.com/jeankalud/openpilot`
