@@ -128,5 +128,5 @@ It looks a lot like Chffrplus, the only difference is — when plugged into 
 
 A special thanks to the original author of this write up found here:
 
-Comma EON: Initial Setup with OpenPilot
-https://medium.com/@jfrux/comma-eon-initial-setup-with-openpilot-2b5ea58354a
+[Comma EON: Initial Setup with OpenPilot](
+https://medium.com/@jfrux/comma-eon-initial-setup-with-openpilot-2b5ea58354a)
