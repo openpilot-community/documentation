@@ -2,7 +2,14 @@
 
 ### Getting Started
 
-* [Installation](./getting-started/guides/installing-openpilot-on-eon.md)
+* [Quick Start](./getting-started/quick-start.md)
+* [Installation](./getting-started/installation.md)
+
+### Driving
+
+* [First Drive](./driving/first-drive.md)
+* [Safety](./driving/safety.md)
+* [Driver Monitoring](./driving/driver-monitoring.md)
 
 ### Vehicles
 
@@ -60,14 +67,14 @@
 
 ### Development
 
-* [Customizations](./development/customizations.md)
-* [Future Releases](./development/releases.md)
+* [Releases](./development/releases.md)
 * [Developer Guides](./development/guides/README.md)
   * [Connecting to EON with SSH](./development/guides/connecting-to-eon-with-ssh.md)
   * [Installing Addl. Tools for SSH on Windows](./development/guides/installing-additional-tools-ssh-windows10.md)
   * [Adding Vehicle Support](./development/guides/add-support-for-a-vehicle.md)
   * [Capture a screenshot](./development/guides/capture-a-screenshot.md)
   * [Compare two fingerprints](./development/guides/diff-fingerprints.md)
+  * [Customize the drive ui](./development/guides/customize-the-drive-ui.md)
 
 ### Help us document
 

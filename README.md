@@ -1,4 +1,4 @@
-# Introduction
+# Welcome
 
 Welcome to The Openpilot Documentation Project.
 
@@ -13,6 +13,12 @@ The current goals of the openpilot project have a lot to do with progress and pr
 So the goal is to bring a fresh take to the on-boarding experience to the table.
 
 What better way to do that than with GitHub and some Markdown.
+
+## What is Openpilot?
+
+openpilot is an open source driving assistant. Currently it can be used as an after-market alternative to perform the functions of Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS) for Hondas, Acuras, Toyotas, and a Chevy. It's about on par with Tesla Autopilot and GM Super Cruise, and better than all other manufacturers.
+
+The openpilot codebase has been written to be concise and enable rapid prototyping. We look forward to your contributions - improving real vehicle automation has never been easier.
 
 ## Help create documentation
 

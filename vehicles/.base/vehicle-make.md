@@ -27,13 +27,8 @@ If you have checked your vehicle model page and are confident your vehicle is su
 - 1 x [Panda](/hardware/panda/)
 - 1 x [Giraffe](/hardware/giraffe/)
 
-{% if addlRequirements %}
-
-### Addl. Requirements for {{ page.title }}
-
 {% block addlRequirements %}
 {% endblock %}
-{% endif %}
 
 ## How to add support for a vehicle
 

@@ -1,10 +1,21 @@
-# Future Releases
+# Releases
 
-**PLEASE NOTE:** These are purely based on things released by Comma.ai, Inc.'s CEO publicly on Slack and Periscopes and may or may not change in the future.
+**PLEASE NOTE:** These are purely based on things released by Comma.ai, Inc.'s README, George Hotz CEO and/or publicly on Slack and Periscopes and may or may not be subject to change in the future.
 
 ## Release Cycle
 
 Comma tries to stick to a 2 week sprint cycle and they release to devel mostly on Sunday's and to release2 on Monday's.
+
+### Latest Release
+
+* **v0.5.x**
+  * Removes Waze and Spotify
+  * Driver Monitoring Beta
+  * Updated UI for the "Home" screen
+  
+Comma.ai, Inc. released a tool that helps drivers report disengagement reasons so that the system can learn how to respond to them later.  It's only getting smarter from here on out folks.
+
+Visit https://my.comma.ai/ to test out the alpha/beta release of this service.
 
 ### Features to look for in future releases
 
@@ -15,14 +26,3 @@ Comma tries to stick to a 2 week sprint cycle and they release to devel mostly o
   * locationd should ship
     * a very integrated location finder daemon with &lt; 1m accuracy
     * includes SLAM and dead reckons down to cm
-* **v0.5.x**
-
-  * Removes Waze and Spotify
-  * Driver Monitoring
-  * Updated UI for the "Home" screen _NOTE: The below image may not represent the actual UI but is merely a concept based on information released by George over Periscope._ 
-
-  ![](/images/dashboard-3x.png)
-
-![](/images/image%20%283%29.png)
-
-
