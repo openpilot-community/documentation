@@ -76,6 +76,13 @@
   * [Compare two fingerprints](./development/guides/diff-fingerprints.md)
   * [Customize the drive ui](./development/guides/customize-the-drive-ui.md)
 
+### Tools
+
+* [Drive Explorer](./tools/explorer.md)
+* [Cabana](./tools/cabana.md)
+* [PandaCAN](./tools/pandacan.md)
+* [Panda.js](./tools/pandajs.md)
+
 ### Help us document
 
 * [Contributing](./documentation/contributing.md)
