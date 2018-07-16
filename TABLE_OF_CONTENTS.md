@@ -75,6 +75,7 @@
   * [Capture a screenshot](./development/guides/capture-a-screenshot.md)
   * [Compare two fingerprints](./development/guides/diff-fingerprints.md)
   * [Customize the drive ui](./development/guides/customize-the-drive-ui.md)
+  * [TMUX and EON Cheatsheet](./development/guides/tmux.md)
 
 ### Tools
 
