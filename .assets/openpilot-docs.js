@@ -2,7 +2,7 @@
 
 require(['gitbook'], function(gitbook) {
   gitbook.events.bind('page.change', function() {
-    var $githubLinks = $("<div class=\"github-links\"></div>");
+    // var $githubLinks = $("<div class=\"github-links\"></div>");
     var $bookHeader = $(".book-header");
     var $commaNotice = $(".page-inner .alert").first();
     var $commaNoticeButton = $(".commaai-alert .btn-close");
@@ -19,9 +19,9 @@ require(['gitbook'], function(gitbook) {
       $commaNotice.fadeOut();
     });
     
-    $bookHeader.append($githubLinks);
+    // $bookHeader.append($githubLinks);
 
-    $githubLinks.append("<a class=\"github-link\" href=\"https://github.com/commaai/openpilot\"><span class=\"fa fa-github\"></span> commaai/openpilot</a>");
+    // $githubLinks.append("<a class=\"github-link\" href=\"https://github.com/commaai/openpilot\"><span class=\"fa fa-github\"></span> commaai/openpilot</a>");
 
     if (!$(".book-summary .logo").length) {
       $(".book-summary").prepend("<a href=\"" + gitbook.state.bookRoot + "\" class=\"logo\"></a>");
