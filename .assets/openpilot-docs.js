@@ -5,13 +5,12 @@ require(['gitbook'], function(gitbook) {
     var $githubLinks = $("<div class=\"github-links\"></div>");
     var $bookHeader = $(".book-header");
     var $commaNotice = $(".page-inner .alert").first();
-    var $commaNoticeButton = $("<button class=\"btn btn-primary js-close-notice\">Okay</button>");
-    
-    if (!localStorage.getItem("hasClosedNotice")) {
-      $commaNotice.append($commaNoticeButton);
-    } else {
+    var $commaNoticeButton = $(".commaai-alert .btn-close");
+    if (localStorage.getItem("hasClosedNotice") === "true") {
       gitbook.hasClosedNotice = true;
-      $commaNotice.hide();
+      $("body").removeClass("show-commaai-alert");
+    } else {
+      $("body").addClass("show-commaai-alert");
     }
 
     $commaNoticeButton.on("click",function() {
