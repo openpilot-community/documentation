@@ -16,3 +16,6 @@
 ## Videos
 
 {{ 'https://www.youtube.com/watch?v=jGNMsypQd8Q' | video }}
+{{ 'https://www.youtube.com/watch?v=LCevgaqedDo' | video }}
+{{ 'https://www.youtube.com/watch?v=pQGxhvZpOr4' | video }}
+{{ 'https://www.youtube.com/watch?v=XYUHrI5-A9A' | video }}
