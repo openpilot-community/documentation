@@ -2,11 +2,12 @@
 
 ## Supported Models
 
-Pre-autopilot 2013, 2014's.
+Pre-autopilot 2012, 2013, 2014's (cars made before Oct 28, 2014).
 
 ## Repository
 
-`https://github.com/jeankalud/openpilot`
+Software: `https://github.com/jeankalud/openpilot`
+Hardware: `https://github.com/commaai/neo/pull/36`
 
 ## Video
 {{ 'https://youtu.be/-sErJrZZrUo' | video }}
