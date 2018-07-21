@@ -1,12 +1,8 @@
 {% include "../.base/vehicle-model-header.md" %}
 
-## Supported Models
+## Compatibility
 
-### 2017+ Lexus RX Hybrid
-
-- Alpha level support as of July 8th, 2018
-- By default it uses stock Lexus ACC for longitudinal control
-- openpilot longitudinal control available after unplugging the [Driving Support ECU](https://community.comma.ai/wiki/index.php/Toyota#Lexus_RX_hybrid)
+<iframe class="airtable-embed" src="https://airtable.com/embed/shr9Aek5fjLZI0ez6?backgroundColor=gray&layout=card" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ## Videos
 
