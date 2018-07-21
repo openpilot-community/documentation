@@ -1,18 +1,9 @@
 {% include "../.base/vehicle-model-header.md" %}
 
 
-## Supported Models
+## Compatibility
 
-### 2016+ Honda Civic w/ Honda Sensing
-
-* Due to limitations in steering firmware, steering is disabled below 12 mph
-* Note that the hatchback model is not supported
-
-### 2017+ Honda Civic Hatchback w/ Honda Sensing
-
-* Alpha level support is given currently as of July 5th, 2018.
-* Due to limitations in steering firmware, steering is disabled below 12 mph
-* Uses stock Honda Sensing for longitudinal control
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrxKrqE2KjMXWnHu?backgroundColor=gray&layout=card&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ## Videos
 
