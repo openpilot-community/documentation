@@ -1,12 +1,9 @@
 {% include "../.base/vehicle-model-header.md" %}
 
 
-## Supported Models
+## Compatibility
 
-### 2018 Honda Accord w/ Honda Sensing
-
-* Alpha level support is given currently as of July 5th, 2018.
-* Uses stock Honda Sensing for longitudinal control
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrw8t2phwUpUO9w8?backgroundColor=gray&layout=card" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ## Videos
 
