@@ -1,12 +1,9 @@
 {% include "../.base/vehicle-model-header.md" %}
 
 
-## Supported Models
+## Compatibility
 
-### 2016+ Honda Pilot with Honda Sensing
-
-* Alpha level support as of July 5th, 2018
-* Can only be enabled above 27 mph
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrOs5a99gezb3W0T?backgroundColor=gray&layout=card" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ## Videos
 
