@@ -1,10 +1,8 @@
 {% include "../.base/vehicle-model-header.md" %}
 
-## Supported Models
+## Compatibility
 
-### 2016 Acura ILX w/ Acura Watch
-
-* Due to use of the cruise control for gas, it can only be enabled above 25 mph
+<iframe class="airtable-embed" src="https://airtable.com/embed/shryYmRkhlmyvqNtC?backgroundColor=gray&layout=card" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ## Videos
 

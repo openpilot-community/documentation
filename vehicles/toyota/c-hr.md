@@ -1,12 +1,8 @@
 {% include "../.base/vehicle-model-header.md" %}
 
-## Supported Models
+## Compatibility
 
-### 2018 Toyota C-HR XLE
-
-- No longitudinal control yet.
-- Lateral control
-- Stop and go unless stopped more than 5 seconds (reference needed)
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrLxLDKOH4vGJMVy?backgroundColor=gray&layout=card" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ## Videos
 

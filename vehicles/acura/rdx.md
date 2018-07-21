@@ -1,12 +1,8 @@
 {% include "../.base/vehicle-model-header.md" %}
 
+## Compatibility
 
-## Supported Models
-
-### 2018 Acura RDX w/ AcuraWatch Plus
-
-- Alpha level support as of July 8th, 2018
-- Can only be enabled above 25 mph
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrDfkrGRlTmI96lV?backgroundColor=gray&layout=card" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ## Videos
 

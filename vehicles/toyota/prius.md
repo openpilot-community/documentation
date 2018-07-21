@@ -1,18 +1,8 @@
 {% include "../.base/vehicle-model-header.md" %}
 
-## Supported Models
+## Compatibility
 
-### 2017+ Toyota Prius
-
-- By default it uses stock Toyota ACC for longitudinal control
-- openpilot longitudinal control available after unplugging the [Driving Support ECU](https://community.comma.ai/wiki/index.php/Toyota#Prius_.28for_openpilot.29)
-- Lateral control needs improvements
-
-### 2017+ Toyota Prius Prime
-
-- By default it uses stock Toyota ACC for longitudinal control
-- openpilot longitudinal control available after unplugging the [Driving Support ECU](https://community.comma.ai/wiki/index.php/Toyota#Prius_.28for_openpilot.29)
-- Lateral control needs improvements
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrLGDmv6Aw8muzmk?backgroundColor=gray&layout=card" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ## Videos
 

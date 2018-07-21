@@ -39,6 +39,10 @@ These makes include (but are not limited to):
 - Mercedes
 - Volvo
 
+## Latest Progress
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrbqvb7gTWFawAUE?backgroundColor=gray" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
 ## How to add support for a vehicle
 
 If you own an vehicle not currently listed
