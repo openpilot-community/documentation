@@ -1,9 +1,8 @@
 {% include "../.base/vehicle-model-header.md" %}
 
-## 2016+ Honda Ridgeline with Honda Sensing
+## Compatibility
 
-* Alpha level support as of July 5th, 2018
-* Can only be enabled above 27 mph
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrYkpLxT0ZQOykfg?backgroundColor=gray&layout=card" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ## Videos
 
