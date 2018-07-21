@@ -1,8 +1,8 @@
 {% include "../.base/vehicle-model-header.md" %}
 
-## Supported Models
+## Compatibility
 
-Pre-autopilot 2012, 2013, 2014's (cars made before Oct 28, 2014).
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrpKojKg1vzBjc7i?backgroundColor=gray&layout=card" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ## Repository
 
