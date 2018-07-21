@@ -1,16 +1,8 @@
 {% include "../.base/vehicle-model-header.md" %}
 
-## Supported Models
+## Compatibility
 
-### 2017-2018 Honda CR-V w/ Honda Sensing
-
-- Alpha level support as of July 8th, 2018
-- Due to limitations in steering firmware, steering is disabled below 12 mph
-- Uses stock Honda Sensing for longitudinal control
-
-### 2015-2016 Honda CR-V Touring
-
-* Can only be enabled above 25 mph
+<iframe class="airtable-embed" src="https://airtable.com/embed/shr40fHwtkALAVI3l?backgroundColor=gray&layout=card" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ## Videos
 
