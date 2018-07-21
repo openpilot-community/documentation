@@ -1,11 +1,8 @@
 {% include "../.base/vehicle-model-header.md" %}
 
-## Supported Models
+## Compatibility
 
-### 2017+ Toyota Corolla
-
-- By default the Corolla uses stock Toyota ACC for longitudinal control.
-- Openpilot longitudinal control can be made available after unplugging the [Driving Support ECU](https://community.comma.ai/wiki/index.php/Toyota#Corolla_.28for_openpilot.29). Control can be enabled above 20 mph.
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrLVTMg7PMeWBUPf?backgroundColor=gray&layout=card" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ## Videos
 
