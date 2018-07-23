@@ -1,12 +1,12 @@
 ---
 id: cadillac
 title: Cadillac
+description: Information about running Comma.ai Openpilot on Cadillac vehicles including the CT6 and  others.
 ---
 # Cadillac
 
-The goal is to always support as many vehicles as possible.
-
 Openpilot is compatible with *some* **Cadillac** model(s) so feel free to browse the support pages for these models below for additional specifics.
+The goal is to always support as many vehicles as possible.
 
 To chat about Cadillac's with the community, checkout the # channel in the [Comma Slack](https://slack.comma.ai).
 

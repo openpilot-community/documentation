@@ -1,6 +1,7 @@
 ---
 id: 2016-honda-civic
 title: 2016 Honda Civic w/ Honda Sensing
+description: Information about running Comma.ai Openpilot on the 2016 Honda Civic w/ Honda Sensing
 ---
 # 2016 Honda Civic w/ Honda Sensing
 

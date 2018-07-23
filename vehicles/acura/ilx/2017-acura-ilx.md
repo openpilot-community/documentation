@@ -1,6 +1,7 @@
 ---
 id: 2017-acura-ilx
 title: 2017 Acura ILX w/ AcuraWatch Plus
+description: Information about running Comma.ai Openpilot on the 2017 Acura ILX w/ AcuraWatch Plus
 ---
 # 2017 Acura ILX w/ AcuraWatch Plus
 

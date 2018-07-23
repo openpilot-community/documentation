@@ -1,11 +1,12 @@
 ---
 id: c-hr
 title: C-HR
+description: Information about running Comma.ai Openpilot on Toyota C-HR vehicles.
 ---
 # Toyota C-HR
 
-The goal is to support as many vehicles as possible.
 Openpilot is compatible with *some* **C-HR** model(s) so feel free to browse the support pages for these models below for additional specifics.
+The goal is to support as many vehicles as possible.
 
 To chat about C-HR's with the community, checkout  the [Comma Slack](https://slack.comma.ai).
 

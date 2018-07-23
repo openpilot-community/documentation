@@ -1,6 +1,7 @@
 ---
 id: 2017-toyota-rav4-hybrid
 title: 2017 Toyota RAV4 Hybrid
+description: Information about running Comma.ai Openpilot on the 2017 Toyota RAV4 Hybrid
 ---
 # 2017 Toyota RAV4 Hybrid
 

@@ -1,6 +1,7 @@
 ---
 id: vehicles
 title: Vehicles
+description: Information about running Comma.ai Openpilot on many existing auto makers including but not limited to Acura and Cadillac and Chevrolet and Honda and Hyundai and Kia and Lexus and Tesla and Toyota and  and many more.
 ---
 # Vehicles
 

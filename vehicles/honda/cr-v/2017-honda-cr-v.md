@@ -1,6 +1,7 @@
 ---
 id: 2017-honda-cr-v
 title: 2017 Honda CR-V w/ Honda Sensing
+description: Information about running Comma.ai Openpilot on the 2017 Honda CR-V w/ Honda Sensing
 ---
 # 2017 Honda CR-V w/ Honda Sensing
 

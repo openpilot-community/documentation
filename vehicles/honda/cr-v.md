@@ -1,11 +1,12 @@
 ---
 id: cr-v
 title: CR-V
+description: Information about running Comma.ai Openpilot on Honda CR-V vehicles.
 ---
 # Honda CR-V
 
-The goal is to support as many vehicles as possible.
 Openpilot is compatible with *some* **CR-V** model(s) so feel free to browse the support pages for these models below for additional specifics.
+The goal is to support as many vehicles as possible.
 
 To chat about CR-V's with the community, checkout  the [Comma Slack](https://slack.comma.ai).
 

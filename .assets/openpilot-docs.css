@@ -10,6 +10,28 @@
   color:#777;
 }
 
+.book-header div.h1 {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 200;
+  text-align: center;
+  line-height: 50px;
+  opacity: 0;
+  -webkit-transition: opacity ease .4s;
+  -moz-transition: opacity ease .4s;
+  -o-transition: opacity ease .4s;
+  transition: opacity ease .4s;
+  padding-left: 200px;
+  padding-right: 200px;
+  -webkit-transition: opacity .2s ease;
+  -moz-transition: opacity .2s ease;
+  -o-transition: opacity .2s ease;
+  transition: opacity .2s ease;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
 .gitbook-link {
   display:none!important;
 }

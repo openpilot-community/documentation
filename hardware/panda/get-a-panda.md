@@ -1,3 +1,8 @@
+---
+id: get-a-panda
+title: Where to get a Panda
+description: Information about where to buy the different types of Panda's.
+---
 # Get a Panda
 
 ## Grey Panda

@@ -1,6 +1,7 @@
 ---
 id: 2018-toyota-rav4-hybrid-de
 title: 2018 Toyota RAV4 Hybrid (DE)
+description: Information about running Comma.ai Openpilot on the 2018 Toyota RAV4 Hybrid (DE)
 ---
 # 2018 Toyota RAV4 Hybrid (DE)
 

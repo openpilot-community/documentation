@@ -1,3 +1,8 @@
+---
+id: panda
+title: Panda
+description: The Panda is a universal interface for your car.
+---
 # Panda
 
 The Panda is a universal interface for your car.

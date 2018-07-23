@@ -1,6 +1,7 @@
 ---
 id: 2016-toyota-prius
 title: 2016 Toyota Prius w/ TSS-P
+description: Information about running Comma.ai Openpilot on the 2016 Toyota Prius w/ TSS-P
 ---
 # 2016 Toyota Prius w/ TSS-P
 

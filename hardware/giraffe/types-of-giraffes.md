@@ -1,3 +1,8 @@
+---
+id: types-of-giraffes
+title: Types of Giraffe
+description: Information about the different types of Giraffe's available for different vehicles.
+---
 # Types of Giraffes
 
 There are 3 official types of Giraffe's you can buy from Comma.ai but many community members have built custom ones for specific vehicle requirements.  Visit the [Vehicles](/vehicles) section to find the right Giraffe for your vehicle make / model.

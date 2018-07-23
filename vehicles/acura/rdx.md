@@ -1,11 +1,12 @@
 ---
 id: rdx
 title: RDX
+description: Information about running Comma.ai Openpilot on Acura RDX vehicles.
 ---
 # Acura RDX
 
-The goal is to support as many vehicles as possible.
 Openpilot is compatible with *some* **RDX** model(s) so feel free to browse the support pages for these models below for additional specifics.
+The goal is to support as many vehicles as possible.
 
 To chat about RDX's with the community, checkout  the [Comma Slack](https://slack.comma.ai).
 

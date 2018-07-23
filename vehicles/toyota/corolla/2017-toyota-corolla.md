@@ -1,6 +1,7 @@
 ---
 id: 2017-toyota-corolla
 title: 2017 Toyota Corolla
+description: Information about running Comma.ai Openpilot on the 2017 Toyota Corolla
 ---
 # 2017 Toyota Corolla
 

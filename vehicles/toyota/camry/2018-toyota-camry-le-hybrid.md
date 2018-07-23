@@ -1,6 +1,7 @@
 ---
 id: 2018-toyota-camry-le-hybrid
 title: 2018 Toyota Camry LE Hybrid
+description: Information about running Comma.ai Openpilot on the 2018 Toyota Camry LE Hybrid
 ---
 # 2018 Toyota Camry LE Hybrid
 

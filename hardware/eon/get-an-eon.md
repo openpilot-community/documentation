@@ -1,3 +1,8 @@
+---
+id: get-an-eon
+title: Get an EON
+description: Information about how to buy a Comma.ai EON
+---
 # Get an EON
 
 ## Purchasing an EON
@@ -13,5 +18,6 @@ Well, it is entirely possible to build it yourself but it may end up costing you
 I recommend checking out the [**Comma Wiki**](https://community.comma.ai/wiki/index.php/Neo) and the [**Comma Neo Repository**](https://github.com/commaai/neo) for information on the pieces needed to make it work.
 
 ### Examples of some builds
+
 ![](/images/get-an-eon_2018-07-09-09-32-07.png)
 ![](/images/get-an-eon_2018-07-09-09-33-00.png)

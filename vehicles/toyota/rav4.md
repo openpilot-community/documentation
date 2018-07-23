@@ -1,11 +1,12 @@
 ---
 id: rav4
 title: RAV4
+description: Information about running Comma.ai Openpilot on Toyota RAV4 vehicles.
 ---
 # Toyota RAV4
 
-The goal is to support as many vehicles as possible.
 Openpilot is compatible with *some* **RAV4** model(s) so feel free to browse the support pages for these models below for additional specifics.
+The goal is to support as many vehicles as possible.
 
 To chat about RAV4's with the community, checkout  the [Comma Slack](https://slack.comma.ai).
 

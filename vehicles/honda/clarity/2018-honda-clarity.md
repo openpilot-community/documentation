@@ -1,6 +1,7 @@
 ---
 id: 2018-honda-clarity
 title: 2018 Honda Clarity
+description: Information about running Comma.ai Openpilot on the 2018 Honda Clarity
 ---
 # 2018 Honda Clarity
 

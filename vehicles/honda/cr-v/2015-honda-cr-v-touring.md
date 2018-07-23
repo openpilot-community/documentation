@@ -1,6 +1,7 @@
 ---
 id: 2015-honda-cr-v-touring
 title: 2015 Honda CR-V Touring
+description: Information about running Comma.ai Openpilot on the 2015 Honda CR-V Touring
 ---
 # 2015 Honda CR-V Touring
 

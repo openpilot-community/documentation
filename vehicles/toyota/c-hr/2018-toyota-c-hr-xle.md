@@ -1,6 +1,7 @@
 ---
 id: 2018-toyota-c-hr-xle
 title: 2018 Toyota C-HR XLE
+description: Information about running Comma.ai Openpilot on the 2018 Toyota C-HR XLE
 ---
 # 2018 Toyota C-HR XLE
 

@@ -1,6 +1,7 @@
 ---
 id: 2018-kia-sorento
 title: 2018 Kia Sorento w/ ACC/LKAS
+description: Information about running Comma.ai Openpilot on the 2018 Kia Sorento w/ ACC/LKAS
 ---
 # 2018 Kia Sorento w/ ACC/LKAS
 

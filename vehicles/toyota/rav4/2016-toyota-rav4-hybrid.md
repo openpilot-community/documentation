@@ -1,6 +1,7 @@
 ---
 id: 2016-toyota-rav4-hybrid
 title: 2016 Toyota RAV4 Hybrid
+description: Information about running Comma.ai Openpilot on the 2016 Toyota RAV4 Hybrid
 ---
 # 2016 Toyota RAV4 Hybrid
 

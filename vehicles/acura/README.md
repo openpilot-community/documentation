@@ -1,12 +1,12 @@
 ---
 id: acura
 title: Acura
+description: Information about running Comma.ai Openpilot on Acura vehicles including the ILX and RDX and  others.
 ---
 # Acura
 
-The goal is to always support as many vehicles as possible.
-
 Openpilot is compatible with *some* **Acura** model(s) so feel free to browse the support pages for these models below for additional specifics.
+The goal is to always support as many vehicles as possible.
 
 To chat about Acura's with the community, checkout the # channel in the [Comma Slack](https://slack.comma.ai).
 

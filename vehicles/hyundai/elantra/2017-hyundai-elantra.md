@@ -1,6 +1,7 @@
 ---
 id: 2017-hyundai-elantra
 title: 2017 Hyundai Elantra w/ ACC/LKAS
+description: Information about running Comma.ai Openpilot on the 2017 Hyundai Elantra w/ ACC/LKAS
 ---
 # 2017 Hyundai Elantra w/ ACC/LKAS
 

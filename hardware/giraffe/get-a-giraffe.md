@@ -1,3 +1,9 @@
+---
+id: get-a-giraffe
+title: Get a Giraffe
+description: Information about how to buy a Giraffe for your vehicle.
+---
+
 # Get a Giraffe
 
 ## Find the one you need

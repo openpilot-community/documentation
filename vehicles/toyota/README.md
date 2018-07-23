@@ -1,12 +1,12 @@
 ---
 id: toyota
 title: Toyota
+description: Information about running Comma.ai Openpilot on Toyota vehicles including the C-HR and Camry and Corolla and Prius and RAV4 and  others.
 ---
 # Toyota
 
-The goal is to always support as many vehicles as possible.
-
 Openpilot is compatible with *some* **Toyota** model(s) so feel free to browse the support pages for these models below for additional specifics.
+The goal is to always support as many vehicles as possible.
 
 To chat about Toyota's with the community, checkout the # channel in the [Comma Slack](https://slack.comma.ai).
 

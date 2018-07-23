@@ -1,3 +1,8 @@
+---
+id: eon
+title: EON
+description: Information about Comma.ai EON, including where to buy, how to mount it, and how to install openpilot.
+---
 # EON
 
 The EON is sold as a Dashcam by Comma.ai, Inc.  However, it is commonly not purchased for that purpose, rather; is used by motivated people to install third-party open source software on it known as [openpilot]().

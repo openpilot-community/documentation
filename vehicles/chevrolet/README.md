@@ -1,12 +1,12 @@
 ---
 id: chevrolet
 title: Chevrolet
+description: Information about running Comma.ai Openpilot on Chevrolet vehicles including the Volt and  others.
 ---
 # Chevrolet
 
-The goal is to always support as many vehicles as possible.
-
 Openpilot is compatible with *some* **Chevrolet** model(s) so feel free to browse the support pages for these models below for additional specifics.
+The goal is to always support as many vehicles as possible.
 
 To chat about Chevrolet's with the community, checkout the # channel in the [Comma Slack](https://slack.comma.ai).
 

@@ -1,6 +1,7 @@
 ---
 id: 2018-cadillac-ct6
 title: 2018 Cadillac CT6
+description: Information about running Comma.ai Openpilot on the 2018 Cadillac CT6
 ---
 # 2018 Cadillac CT6
 

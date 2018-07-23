@@ -1,6 +1,7 @@
 ---
 id: 2017-chevrolet-volt
 title: 2017 Chevrolet Volt w/ Driver Confidence II
+description: Information about running Comma.ai Openpilot on the 2017 Chevrolet Volt w/ Driver Confidence II
 ---
 # 2017 Chevrolet Volt w/ Driver Confidence II
 

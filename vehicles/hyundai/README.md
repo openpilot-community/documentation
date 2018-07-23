@@ -1,12 +1,12 @@
 ---
 id: hyundai
 title: Hyundai
+description: Information about running Comma.ai Openpilot on Hyundai vehicles including the Elantra and  others.
 ---
 # Hyundai
 
-The goal is to always support as many vehicles as possible.
-
 Openpilot is compatible with *some* **Hyundai** model(s) so feel free to browse the support pages for these models below for additional specifics.
+The goal is to always support as many vehicles as possible.
 
 To chat about Hyundai's with the community, checkout the # channel in the [Comma Slack](https://slack.comma.ai).
 

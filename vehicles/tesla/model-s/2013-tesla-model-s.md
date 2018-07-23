@@ -1,6 +1,7 @@
 ---
 id: 2013-tesla-model-s
 title: 2013 Tesla Model S w/ ACC/LKAS
+description: Information about running Comma.ai Openpilot on the 2013 Tesla Model S w/ ACC/LKAS
 ---
 # 2013 Tesla Model S w/ ACC/LKAS
 

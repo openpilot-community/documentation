@@ -1,11 +1,12 @@
 ---
 id: prius
 title: Prius
+description: Information about running Comma.ai Openpilot on Toyota Prius vehicles.
 ---
 # Toyota Prius
 
-The goal is to support as many vehicles as possible.
 Openpilot is compatible with *some* **Prius** model(s) so feel free to browse the support pages for these models below for additional specifics.
+The goal is to support as many vehicles as possible.
 
 To chat about Prius's with the community, checkout  the [Comma Slack](https://slack.comma.ai).
 

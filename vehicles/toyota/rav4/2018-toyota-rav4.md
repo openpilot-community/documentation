@@ -1,6 +1,7 @@
 ---
 id: 2018-toyota-rav4
 title: 2018 Toyota RAV4
+description: Information about running Comma.ai Openpilot on the 2018 Toyota RAV4
 ---
 # 2018 Toyota RAV4
 

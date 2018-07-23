@@ -1,6 +1,7 @@
 ---
 id: 2017-honda-civic-hatchback
 title: 2017 Honda Civic Hatchback w/ Honda Sensing
+description: Information about running Comma.ai Openpilot on the 2017 Honda Civic Hatchback w/ Honda Sensing
 ---
 # 2017 Honda Civic Hatchback w/ Honda Sensing
 

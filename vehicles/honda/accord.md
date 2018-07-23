@@ -1,11 +1,12 @@
 ---
 id: accord
 title: Accord
+description: Information about running Comma.ai Openpilot on Honda Accord vehicles.
 ---
 # Honda Accord
 
-The goal is to support as many vehicles as possible.
 Openpilot is compatible with *some* **Accord** model(s) so feel free to browse the support pages for these models below for additional specifics.
+The goal is to support as many vehicles as possible.
 
 To chat about Accord's with the community, checkout  the [Comma Slack](https://slack.comma.ai).
 

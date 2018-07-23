@@ -1,11 +1,12 @@
 ---
 id: pilot
 title: Pilot
+description: Information about running Comma.ai Openpilot on Honda Pilot vehicles.
 ---
 # Honda Pilot
 
-The goal is to support as many vehicles as possible.
 Openpilot is compatible with *some* **Pilot** model(s) so feel free to browse the support pages for these models below for additional specifics.
+The goal is to support as many vehicles as possible.
 
 To chat about Pilot's with the community, checkout  the [Comma Slack](https://slack.comma.ai).
 

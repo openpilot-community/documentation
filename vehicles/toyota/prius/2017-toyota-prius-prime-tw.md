@@ -1,6 +1,7 @@
 ---
 id: 2017-toyota-prius-prime-tw
 title: 2017 Toyota Prius Prime (TW)
+description: Information about running Comma.ai Openpilot on the 2017 Toyota Prius Prime (TW)
 ---
 # 2017 Toyota Prius Prime (TW)
 

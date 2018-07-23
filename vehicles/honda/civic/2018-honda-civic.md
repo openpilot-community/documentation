@@ -1,6 +1,7 @@
 ---
 id: 2018-honda-civic
 title: 2018 Honda Civic w/ Honda Sensing
+description: Information about running Comma.ai Openpilot on the 2018 Honda Civic w/ Honda Sensing
 ---
 # 2018 Honda Civic w/ Honda Sensing
 

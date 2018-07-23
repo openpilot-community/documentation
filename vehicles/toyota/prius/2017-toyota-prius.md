@@ -1,6 +1,7 @@
 ---
 id: 2017-toyota-prius
 title: 2017 Toyota Prius
+description: Information about running Comma.ai Openpilot on the 2017 Toyota Prius
 ---
 # 2017 Toyota Prius
 

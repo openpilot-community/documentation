@@ -1,6 +1,7 @@
 ---
 id: 2016-toyota-rav4
 title: 2016 Toyota RAV4 w/ TSS-P
+description: Information about running Comma.ai Openpilot on the 2016 Toyota RAV4 w/ TSS-P
 ---
 # 2016 Toyota RAV4 w/ TSS-P
 

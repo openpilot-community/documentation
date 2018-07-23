@@ -1,11 +1,12 @@
 ---
 id: civic
 title: Civic
+description: Information about running Comma.ai Openpilot on Honda Civic vehicles.
 ---
 # Honda Civic
 
-The goal is to support as many vehicles as possible.
 Openpilot is compatible with *some* **Civic** model(s) so feel free to browse the support pages for these models below for additional specifics.
+The goal is to support as many vehicles as possible.
 
 To chat about Civic's with the community, checkout  the [Comma Slack](https://slack.comma.ai).
 

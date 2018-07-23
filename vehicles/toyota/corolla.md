@@ -1,11 +1,12 @@
 ---
 id: corolla
 title: Corolla
+description: Information about running Comma.ai Openpilot on Toyota Corolla vehicles.
 ---
 # Toyota Corolla
 
-The goal is to support as many vehicles as possible.
 Openpilot is compatible with *some* **Corolla** model(s) so feel free to browse the support pages for these models below for additional specifics.
+The goal is to support as many vehicles as possible.
 
 To chat about Corolla's with the community, checkout  the [Comma Slack](https://slack.comma.ai).
 

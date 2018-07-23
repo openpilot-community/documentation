@@ -1,6 +1,7 @@
 ---
 id: 2017-lexus-rx-hybrid
 title: 2017 Lexus RX Hybrid
+description: Information about running Comma.ai Openpilot on the 2017 Lexus RX Hybrid
 ---
 # 2017 Lexus RX Hybrid
 

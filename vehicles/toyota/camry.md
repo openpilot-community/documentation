@@ -1,11 +1,12 @@
 ---
 id: camry
 title: Camry
+description: Information about running Comma.ai Openpilot on Toyota Camry vehicles.
 ---
 # Toyota Camry
 
-The goal is to support as many vehicles as possible.
 Openpilot is compatible with *some* **Camry** model(s) so feel free to browse the support pages for these models below for additional specifics.
+The goal is to support as many vehicles as possible.
 
 To chat about Camry's with the community, checkout  the [Comma Slack](https://slack.comma.ai).
 

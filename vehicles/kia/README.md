@@ -1,12 +1,12 @@
 ---
 id: kia
 title: Kia
+description: Information about running Comma.ai Openpilot on Kia vehicles including the Sorento and Stinger and  others.
 ---
 # Kia
 
-The goal is to always support as many vehicles as possible.
-
 Openpilot is compatible with *some* **Kia** model(s) so feel free to browse the support pages for these models below for additional specifics.
+The goal is to always support as many vehicles as possible.
 
 To chat about Kia's with the community, checkout the # channel in the [Comma Slack](https://slack.comma.ai).
 

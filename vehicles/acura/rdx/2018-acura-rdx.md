@@ -1,6 +1,7 @@
 ---
 id: 2018-acura-rdx
 title: 2018 Acura RDX w/ AcuraWatch Plus
+description: Information about running Comma.ai Openpilot on the 2018 Acura RDX w/ AcuraWatch Plus
 ---
 # 2018 Acura RDX w/ AcuraWatch Plus
 

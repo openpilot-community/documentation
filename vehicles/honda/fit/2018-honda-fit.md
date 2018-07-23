@@ -1,6 +1,7 @@
 ---
 id: 2018-honda-fit
 title: 2018 Honda Fit w/ Honda Sensing
+description: Information about running Comma.ai Openpilot on the 2018 Honda Fit w/ Honda Sensing
 ---
 # 2018 Honda Fit w/ Honda Sensing
 

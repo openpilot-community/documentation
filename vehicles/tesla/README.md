@@ -1,12 +1,12 @@
 ---
 id: tesla
 title: Tesla
+description: Information about running Comma.ai Openpilot on Tesla vehicles including the Model S and  others.
 ---
 # Tesla
 
-The goal is to always support as many vehicles as possible.
-
 Openpilot is compatible with *some* **Tesla** model(s) so feel free to browse the support pages for these models below for additional specifics.
+The goal is to always support as many vehicles as possible.
 
 To chat about Tesla's with the community, checkout the # channel in the [Comma Slack](https://slack.comma.ai).
 
