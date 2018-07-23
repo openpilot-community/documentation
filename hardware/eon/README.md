@@ -2,7 +2,7 @@
 
 The EON is sold as a Dashcam by Comma.ai, Inc.  However, it is commonly not purchased for that purpose, rather; is used by motivated people to install third-party open source software on it known as [openpilot]().
 
-## What is it made of?
+## What is it made of
 
 You'll notice that it looks like a cellphone with a funny case on it.
 

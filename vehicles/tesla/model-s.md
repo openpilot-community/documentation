@@ -1,18 +1,25 @@
-{% include "../.base/vehicle-model-header.md" %}
+---
+id: model-s
+title: Model S
+---
+# Tesla Model S
 
-## Compatibility
+The goal is to support as many vehicles as possible.
+Openpilot is compatible with *some* **Model S** model(s) so feel free to browse the support pages for these models below for additional specifics.
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrpKojKg1vzBjc7i?backgroundColor=gray&layout=card" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+To chat about Model S's with the community, checkout  the [Comma Slack](https://slack.comma.ai).
 
-## Repository
+## Compatible Years
 
-Software: `https://github.com/jeankalud/openpilot`
-Hardware: `https://github.com/commaai/neo/pull/36`
+This is the current list of trims being tested and/or actively supported by either community members or Comma.ai.
+Varying levels of support / testing are being done on the listed models so please review them thoroughly.
 
-## Video
-{{ 'https://youtu.be/-sErJrZZrUo' | video }}
-{{ 'https://www.youtube.com/watch?v=v3jjzRYBsJI' | video }}
-{{ 'https://www.youtube.com/watch?v=iRkz7FuJsA8' | video }}
-{{ 'https://www.youtube.com/watch?v=UkS-iJ5auD4' | video }}
-{{ 'https://www.youtube.com/watch?v=F8OwdVbwps4' | video }}
-{{ 'https://youtu.be/oI85EyIQ_xA' | video }}
+* [2012 Tesla Model S w/ ACC/LKAS](/vehicles/tesla/model-s/2012-tesla-model-s.html)
+* [2013 Tesla Model S w/ ACC/LKAS](/vehicles/tesla/model-s/2013-tesla-model-s.html)
+* [2014 Tesla Model S w/ ACC/LKAS](/vehicles/tesla/model-s/2014-tesla-model-s.html)
+
+## How to add support for a vehicle
+
+If you own an unsupported vehicle but are interested in discussing porting it to openpilot, join us in the [Comma Slack](https://slack.comma.ai).
+There will also be some great info on porting models in [Development Guides](../../development/guides/).
+

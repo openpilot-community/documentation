@@ -1,23 +1,27 @@
+---
+id: vehicles
+title: Vehicles
+---
 # Vehicles
 
 The goal is to always support as many vehicles as possible.
 
-Openpilot is compatible with several vehicle makes already so feel free to browse the pages below for more info.
+Openpilot is compatible with several vehicle makes and models already so these are very exciting times.
 
 ## Makes
 
 This is the current list of makes being tested and/or actively supported by either community members or Comma.ai.
-Varying levels of support and/or testing are being done on these makes so please follow the links below to keep up to date on individual progress.
+Varying levels of support and testing are being done on them so please follow the links to determine how far along they are.
 
-A data source we rely on heavily for this data is maintained on a [Google Sheet](https://docs.google.com/spreadsheets/d/1yDj2PqF-q9vcqpuMI9mnEmXTo-c056MQEaZUHmqGFnc/edit?usp=sharing).
-
-{% for article in summary.parts[page.level.split('.')[0]-1].articles %}
-{% if (article.title !== "Overview") %}
-{% if (article.title !== "Support Table") %}
- - [{{ article.title }}](/{{ article.path }})
-{% endif %}
-{% endif %}
-{% endfor %}
+* [Acura](/vehicles/acura)
+* [Cadillac](/vehicles/cadillac)
+* [Chevrolet](/vehicles/chevrolet)
+* [Honda](/vehicles/honda)
+* [Hyundai](/vehicles/hyundai)
+* [Kia](/vehicles/kia)
+* [Lexus](/vehicles/lexus)
+* [Tesla](/vehicles/tesla)
+* [Toyota](/vehicles/toyota)
 
 ### Notes on Ford Vehicles
 
@@ -38,10 +42,6 @@ These makes include (but are not limited to):
 - BMW
 - Mercedes
 - Volvo
-
-## Latest Progress
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrbqvb7gTWFawAUE?backgroundColor=gray" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ## How to add support for a vehicle
 

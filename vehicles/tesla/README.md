@@ -1,28 +1,24 @@
-{% extends "../.base/vehicle-make.md" %}
+---
+id: tesla
+title: Tesla
+---
+# Tesla
 
-{% block addlRequirements %}
-### Addl. Requirements for {{ page.title }}
+The goal is to always support as many vehicles as possible.
 
-- 10 ft mini USB cable
+Openpilot is compatible with *some* **Tesla** model(s) so feel free to browse the support pages for these models below for additional specifics.
 
-### Custom Giraffe Required
+To chat about Tesla's with the community, checkout the # channel in the [Comma Slack](https://slack.comma.ai).
 
-{{ page.title }} requires a custom Giraffe made by a community member.
+## Compatible Models
 
-There are 2 variations depending on your vehicles manufacture date.
+This is the current list of models being tested and/or actively supported by either community members or Comma.ai.  Varying levels of support / testing are being done on the listed models so please review them thoroughly.
 
-Vehicles manufactured on or after May 31, 2013, you may have the newer ODB connector.
+* [Model S](/vehicles/tesla/model-s.html)
 
-Check if the OBD connector in your driver-side footwell has metal contacts for pins 1 and 9.  If it does, your Tesla has the newer-style.
+## How to add support for a vehicle
 
-You will also need a custom wiring harness.
+If you own an unsupported vehicle but are interested in discussing porting it to openpilot, join us in the *NEW* [openpilot community chat support system](https://spectrum.chat/openpilot) and the always popular [Comma.ai Slack](https://slack.comma.ai/) if you prefer it.
 
-Contact @appleguru in the #tesla channel on the comma slack to arrange purchase.
+There will also be some great info on porting models in [Development Guides](../../development/guides/).
 
-{% endblock %}
-
-### Comma Pedal Support
-
-A community member seems to have pedals in their posession that they plan to use for Tesla's.
-
-![](/images/2018-07-14-21-18-45.png)

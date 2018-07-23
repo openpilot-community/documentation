@@ -10,6 +10,10 @@ Markdown is just plain text but uses symbols to emphasize formatting instead of 
 
 For a simple cheatsheet, checkout the following GitHub gist...
 
+### We're collecting videos
+
+Click [here](/documentation/submit-a-video.md) to submit your video of openpilot in action!
+
 ### Pull Requests
 
 Feel free to create the new document directly in the GitHub interface.  

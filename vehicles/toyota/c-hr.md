@@ -1,11 +1,23 @@
-{% include "../.base/vehicle-model-header.md" %}
+---
+id: c-hr
+title: C-HR
+---
+# Toyota C-HR
 
-## Compatibility
+The goal is to support as many vehicles as possible.
+Openpilot is compatible with *some* **C-HR** model(s) so feel free to browse the support pages for these models below for additional specifics.
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrLxLDKOH4vGJMVy?backgroundColor=gray&layout=card" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+To chat about C-HR's with the community, checkout  the [Comma Slack](https://slack.comma.ai).
 
-## Videos
+## Compatible Years
 
-No videos yet!
+This is the current list of trims being tested and/or actively supported by either community members or Comma.ai.
+Varying levels of support / testing are being done on the listed models so please review them thoroughly.
 
-Be the first, make sure you click Edit This Page and add it.
+* [2018 Toyota C-HR XLE](/vehicles/toyota/c-hr/2018-toyota-c-hr-xle.html)
+
+## How to add support for a vehicle
+
+If you own an unsupported vehicle but are interested in discussing porting it to openpilot, join us in the [Comma Slack](https://slack.comma.ai).
+There will also be some great info on porting models in [Development Guides](../../development/guides/).
+

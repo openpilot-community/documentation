@@ -5,6 +5,8 @@ package.json
 deploy_key
 deploy_key.enc
 deploy.sh
+.build.js
 yarn.lock
 .travis.yml
 .bookignore
+!TABLE_OF_CONTENTS.md

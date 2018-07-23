@@ -1,17 +1,26 @@
-{% include "../.base/vehicle-model-header.md" %}
+---
+id: civic
+title: Civic
+---
+# Honda Civic
 
+The goal is to support as many vehicles as possible.
+Openpilot is compatible with *some* **Civic** model(s) so feel free to browse the support pages for these models below for additional specifics.
 
-## Compatibility
+To chat about Civic's with the community, checkout  the [Comma Slack](https://slack.comma.ai).
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrxKrqE2KjMXWnHu?backgroundColor=gray&layout=card" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+## Compatible Years
 
-## Videos
+This is the current list of trims being tested and/or actively supported by either community members or Comma.ai.
+Varying levels of support / testing are being done on the listed models so please review them thoroughly.
 
-{{ 'https://www.youtube.com/watch?v=62NIAyTxcjk' | video }}
+* [2016 Honda Civic w/ Honda Sensing](/vehicles/honda/civic/2016-honda-civic.html)
+* [2017 Honda Civic w/ Honda Sensing](/vehicles/honda/civic/2017-honda-civic.html)
+* [2018 Honda Civic w/ Honda Sensing](/vehicles/honda/civic/2018-honda-civic.html)
+* [2017 Honda Civic Hatchback w/ Honda Sensing](/vehicles/honda/civic/2017-honda-civic-hatchback.html)
 
-{{ 'https://www.youtube.com/watch?v=9TDi0BHgXyo' | video }}
+## How to add support for a vehicle
 
-{{ 'https://www.youtube.com/watch?v=XaVs__Bmhms' | video }}
-
-{{ 'https://www.youtube.com/watch?v=IHjEqAKDqjM' | video }}
+If you own an unsupported vehicle but are interested in discussing porting it to openpilot, join us in the [Comma Slack](https://slack.comma.ai).
+There will also be some great info on porting models in [Development Guides](../../development/guides/).
 

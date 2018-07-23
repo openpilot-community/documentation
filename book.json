@@ -9,7 +9,6 @@
     "ga",
     "anchorjs",
     "sitemap",
-    "edit-link",
     "hints",
     "chapter-fold",
     "noembed",
@@ -28,10 +27,6 @@
     },
     "sitemap": {
       "hostname": "https://opc.ai/documentation"
-    },
-    "edit-link": {
-      "base": "https://github.com/openpilot-community/documentation/tree/master",
-      "label": "Edit This Page"
     },
     "ga": {
       "token": "UA-122297332-1"
