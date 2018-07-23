@@ -1,6 +1,6 @@
 {
   "gitbook": "3.2.2",
-  "title": "The Openpilot Documentation Project",
+  "title": "Openpilot Documentation",
   "description": "",
   "structure": {
     "summary": "TABLE_OF_CONTENTS.md"
@@ -26,7 +26,7 @@
       "ariaLabel": "Anchor"
     },
     "sitemap": {
-      "hostname": "https://opc.ai/documentation"
+      "hostname": "https://docs.opc.ai/"
     },
     "ga": {
       "token": "UA-122297332-1"

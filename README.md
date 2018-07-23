@@ -1,3 +1,8 @@
+---
+id: introduction
+title: Openpilot Documentation
+description: The open source initiative to document commaai/openpilot, hardware and the vehicles it supports... all while aiming to be written for people of any skill level.
+---
 # Welcome
 
 Welcome to The Openpilot Documentation Project.
